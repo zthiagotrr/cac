@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Oliveira de Almeida",
+    "cpf": "07599863710",
+    "email": "opaulohenrique247@gmail.com",
+    "phone": "21975723854",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZvlMBePg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-07T22:54:49.000000Z"
+    }
+}

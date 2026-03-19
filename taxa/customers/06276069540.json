@@ -1,0 +1,20 @@
+{
+    "name": "Josuel lima costa",
+    "cpf": "06276069540",
+    "email": "josuellimacostacosta@gmail.com",
+    "phone": "11952774004",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gwK4xpOg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-28T13:49:17.000000Z"
+    }
+}

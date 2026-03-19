@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Nilton dos Santos",
+    "cpf": "69802963704",
+    "email": "joseniltond033@gmail.com",
+    "phone": "94981410849",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNv2OA1g",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-22T14:03:25.000000Z"
+    }
+}

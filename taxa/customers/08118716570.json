@@ -1,0 +1,20 @@
+{
+    "name": "Joao lucas moreira campos",
+    "cpf": "08118716570",
+    "email": "isaisabeldeoliveiranunes@gmail.com",
+    "phone": "77988148049",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8DB49yZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-06T14:47:12.000000Z"
+    }
+}

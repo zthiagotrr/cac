@@ -1,0 +1,20 @@
+{
+    "name": "Jackson Rios da Silva",
+    "cpf": "91761646591",
+    "email": "jacksonrios2019@gmail.com",
+    "phone": "75981511969",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zarj9mVG",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-25T14:30:27.000000Z"
+    }
+}

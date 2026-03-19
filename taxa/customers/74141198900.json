@@ -1,0 +1,20 @@
+{
+    "name": "Adinir Vidal Neves",
+    "cpf": "74141198900",
+    "email": "adinirvidalneves51@gmail.com",
+    "phone": "32998815701",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gm4zE9pG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-08T08:23:47.000000Z"
+    }
+}

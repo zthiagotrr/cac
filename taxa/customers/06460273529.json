@@ -1,0 +1,20 @@
+{
+    "name": "Joelson Ferreira Silva",
+    "cpf": "06460273529",
+    "email": "joelferrei@gmail.com",
+    "phone": "11965783048",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8MkVdZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-26T10:48:22.000000Z"
+    }
+}

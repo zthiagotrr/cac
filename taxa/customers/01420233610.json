@@ -1,0 +1,20 @@
+{
+    "name": "Marcos Fl\u00e1vio Garcia Oliveira",
+    "cpf": "01420233610",
+    "email": "marcosflavio917@gmail.com",
+    "phone": "34996799468",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GnMJ8KWZ",
+        "total_price": "97.20",
+        "status": "pending",
+        "created_at": "2024-11-13T23:45:56.000000Z"
+    }
+}

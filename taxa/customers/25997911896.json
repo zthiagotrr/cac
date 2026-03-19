@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Henrique Z\u00e1caro",
+    "cpf": "25997911896",
+    "email": "carloszacaro@bol.com.br",
+    "phone": "12991910250",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZyyRdDNZ",
+        "total_price": "108.33",
+        "status": "approved",
+        "created_at": "2024-11-30T01:18:01.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CAUE MARQUES TROVAO",
+    "cpf": "41716451825",
+    "email": "cmtrovao@gmail.com",
+    "phone": "15991959199",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7xAb0aG",
+        "total_price": "117.20",
+        "status": "approved",
+        "created_at": "2024-11-27T10:21:25.000000Z"
+    }
+}

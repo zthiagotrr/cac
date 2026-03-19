@@ -1,0 +1,20 @@
+{
+    "name": "Angelo Joel dos Santos",
+    "cpf": "73030210006",
+    "email": "09872526joel@gmail.com",
+    "phone": "55997513442",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Re2yalg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:32:12.000000Z"
+    }
+}

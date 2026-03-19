@@ -1,0 +1,20 @@
+{
+    "name": "robson jos\u00e9 bezerra",
+    "cpf": "03001053127",
+    "email": "robsonjbezerra123@gmail.com",
+    "phone": "66992214553",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJewK2w3",
+        "total_price": "195.30",
+        "status": "approved",
+        "created_at": "2024-11-28T23:10:02.000000Z"
+    }
+}

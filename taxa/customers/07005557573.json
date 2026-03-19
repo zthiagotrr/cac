@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Benicio dos santos",
+    "cpf": "07005557573",
+    "email": "josebenicio1218@gmail.com",
+    "phone": "79996559620",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NqQja3",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:17:17.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Severino envolve eu a\u00ed",
+    "cpf": "23280625807",
+    "email": "edgomess1980@gmail.com",
+    "phone": "13991386450",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkPp293",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T22:45:13.000000Z"
+    }
+}

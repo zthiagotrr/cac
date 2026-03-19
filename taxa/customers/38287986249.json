@@ -1,0 +1,20 @@
+{
+    "name": "Ant\u00f4nio Ferreira da Silva",
+    "cpf": "38287986249",
+    "email": "a.ffeerreeiirraa@gmail.com",
+    "phone": "95991328363",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GnDozLj3",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-25T20:28:38.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Julio Afonso da Silva",
+    "cpf": "01141604817",
+    "email": "julsilv0jas@gmail.com",
+    "phone": "55859941619",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDw1xJb3",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-06T11:32:34.000000Z"
+    }
+}

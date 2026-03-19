@@ -1,0 +1,20 @@
+{
+    "name": "Kaue lima da cruz",
+    "cpf": "46310654861",
+    "email": "kauelima8068@gmail.com",
+    "phone": "11982003914",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zvyy7bV3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-22T23:58:06.000000Z"
+    }
+}

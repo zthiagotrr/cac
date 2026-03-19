@@ -1,0 +1,20 @@
+{
+    "name": "Mateus Henrique hiumas pereira",
+    "cpf": "04738864211",
+    "email": "bolaboiadero@gmail.com",
+    "phone": "69993684387",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "97.20",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-07 18:48:44"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Heitor de Paula Neto",
+    "cpf": "11704565880",
+    "email": "joaoheitordepaulaneto@gmail.com",
+    "phone": "91984324585",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVJOJOkG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-19T11:10:13.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Alessiclaudio de melo purca",
+    "cpf": "06715765421",
+    "email": "melloalex962@gmail.com",
+    "phone": "14991289014",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr92l9pZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T10:39:46.000000Z"
+    }
+}

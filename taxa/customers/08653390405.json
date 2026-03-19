@@ -1,0 +1,20 @@
+{
+    "name": "marcones Pereira da Silva",
+    "cpf": "08653390405",
+    "email": "levimiquel890@gmail.com",
+    "phone": "81996056713",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3REmMKKg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-19T09:21:38.000000Z"
+    }
+}

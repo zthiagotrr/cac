@@ -1,0 +1,20 @@
+{
+    "name": "Leidivam Gomes Rodrigues da Silva",
+    "cpf": "00569103126",
+    "email": "leydyvangomes@gmail.com",
+    "phone": "61995987950",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8OYN0Z",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-02T01:40:53.000000Z"
+    }
+}

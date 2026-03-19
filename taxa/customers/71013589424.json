@@ -1,0 +1,20 @@
+{
+    "name": "Keven V\u00edtor F\u00e9lix da Costa",
+    "cpf": "71013589424",
+    "email": "vitorkeven863@mail.com",
+    "phone": "81993345779",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDwpy4n3",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-01T02:07:53.000000Z"
+    }
+}

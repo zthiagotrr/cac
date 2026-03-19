@@ -1,0 +1,20 @@
+{
+    "name": "Jair Rodrigues Ferreira",
+    "cpf": "48055239304",
+    "email": "rjairrodriquesferreirajair@gmail.com",
+    "phone": "85991292129",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZokEKr1Z",
+        "total_price": "164.59",
+        "status": "pending",
+        "created_at": "2024-12-08T11:05:15.000000Z"
+    }
+}

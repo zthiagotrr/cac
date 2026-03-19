@@ -1,0 +1,20 @@
+{
+    "name": "Franklin Ant\u00f4nio Frazao Parente",
+    "cpf": "04128051209",
+    "email": "domfrazaoofc@gmail.com",
+    "phone": "92993333574",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-08 17:08:54"
+    }
+}

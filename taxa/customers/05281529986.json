@@ -1,0 +1,20 @@
+{
+    "name": "isaias tetour junior",
+    "cpf": "05281529986",
+    "email": "tetourjunior@hotmail.com",
+    "phone": "41999671125",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zyy6vA2Z",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T19:20:29.000000Z"
+    }
+}

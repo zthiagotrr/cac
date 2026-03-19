@@ -1,0 +1,20 @@
+{
+    "name": "JOELSON DOS SANTOS COSTA",
+    "cpf": "09943783435",
+    "email": "Joelsonc703@gmail.com",
+    "phone": "82988378413",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34N7rWdG",
+        "total_price": "108.33",
+        "status": "pending",
+        "created_at": "2024-11-28T19:22:50.000000Z"
+    }
+}

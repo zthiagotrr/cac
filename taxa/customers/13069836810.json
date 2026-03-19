@@ -1,0 +1,20 @@
+{
+    "name": "Jorge de Jesus Fideles",
+    "cpf": "13069836810",
+    "email": "reuelcurto@yahoo.com.br",
+    "phone": "11966044989",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3REQoKrg",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-23T03:05:11.000000Z"
+    }
+}

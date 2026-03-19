@@ -1,0 +1,20 @@
+{
+    "name": "RILDON DAMASCENO PEREIRA",
+    "cpf": "69183341234",
+    "email": "rildondamasceno@gmail.com",
+    "phone": "94999090541",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "36bVDjX3",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-25T18:31:26.000000Z"
+    }
+}

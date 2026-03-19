@@ -1,0 +1,20 @@
+{
+    "name": "Adriel ramos de morais",
+    "cpf": "12305301774",
+    "email": "luanaazevedo.94.m@gmail.com",
+    "phone": "21969024304",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gldQz72g",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-22T10:45:21.000000Z"
+    }
+}

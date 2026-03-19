@@ -1,0 +1,20 @@
+{
+    "name": "Francisco Rondinelly Dos Santos Silva",
+    "cpf": "01409142345",
+    "email": "franciscorondinelly5@gmail.com",
+    "phone": "86999863120",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbjRwyKZ",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-25T20:14:16.000000Z"
+    }
+}

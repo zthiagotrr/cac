@@ -1,0 +1,20 @@
+{
+    "name": "Vitor Hugo Ferreira",
+    "cpf": "75487420106",
+    "email": "vitingemim2@gmail.com",
+    "phone": "62996190656",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "36e9WnWg",
+        "total_price": "67.00",
+        "status": "pending",
+        "created_at": "2024-11-04T10:47:23.000000Z"
+    }
+}

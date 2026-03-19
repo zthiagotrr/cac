@@ -1,0 +1,20 @@
+{
+    "name": "Rodrigo Fernandes dos Reis",
+    "cpf": "78625335187",
+    "email": "rodrigofernandesr@hotmail.com",
+    "phone": "61982709900",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35p87WVg",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-24T21:50:20.000000Z"
+    }
+}

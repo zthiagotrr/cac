@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Frederico Silva Pellegrini Rocha",
+    "cpf": "42436885591",
+    "email": "carlosfrederico290@gmail.com",
+    "phone": "73981877958",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GY2pEl8g",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T18:02:35.000000Z"
+    }
+}

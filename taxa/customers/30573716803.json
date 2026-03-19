@@ -1,0 +1,20 @@
+{
+    "name": "Wagner dos Santos Rodrigues",
+    "cpf": "30573716803",
+    "email": "wagner.st.rodrigues11@gmail.com",
+    "phone": "11974958775",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Rely8vg",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-03T17:44:19.000000Z"
+    }
+}

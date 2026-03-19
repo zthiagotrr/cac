@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Ricardo Alves da Silva",
+    "cpf": "02445561485",
+    "email": "josericardo44780926@gmail.com",
+    "phone": "81994983849",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gd7y01nG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T13:05:37.000000Z"
+    }
+}

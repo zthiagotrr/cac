@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Marcelo da Silva",
+    "cpf": "66753023100",
+    "email": "paulosadia@gmail.com",
+    "phone": "65996898540",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDwLOQb3",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T04:32:05.000000Z"
+    }
+}

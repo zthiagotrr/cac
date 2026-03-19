@@ -1,0 +1,20 @@
+{
+    "name": "Janilson da Silva Barroso",
+    "cpf": "77883071300",
+    "email": "janilsonbarroso@hotmail.com",
+    "phone": "99981418433",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8B6BoZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:48:53.000000Z"
+    }
+}

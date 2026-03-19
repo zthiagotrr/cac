@@ -1,0 +1,20 @@
+{
+    "name": "Dioni de Souza rocha",
+    "cpf": "06834853936",
+    "email": "dsdioni806@gmail.com",
+    "phone": "45991177053",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9N171bg",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T13:53:04.000000Z"
+    }
+}

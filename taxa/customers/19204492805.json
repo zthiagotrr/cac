@@ -1,0 +1,20 @@
+{
+    "name": "Rauf Dearo",
+    "cpf": "19204492805",
+    "email": "raufdearo919@gmail.com",
+    "phone": "19991857958",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqAbaBXg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-07T21:52:24.000000Z"
+    }
+}

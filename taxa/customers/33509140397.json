@@ -1,0 +1,20 @@
+{
+    "name": "Welinton Luis De Carvalho Santos",
+    "cpf": "33509140397",
+    "email": "welintonluisdecarvalhp@gmail.com",
+    "phone": "99981826367",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "349YawvZ",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-23T11:53:37.000000Z"
+    }
+}

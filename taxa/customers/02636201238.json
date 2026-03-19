@@ -1,0 +1,20 @@
+{
+    "name": "Maike Anderson Nogueira da Gra\u00e7a",
+    "cpf": "02636201238",
+    "email": "maikebjj@icloud.com",
+    "phone": "95981226874",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZyyR662Z",
+        "total_price": "174.59",
+        "status": "pending",
+        "created_at": "2024-11-30T16:03:35.000000Z"
+    }
+}

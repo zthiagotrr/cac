@@ -1,0 +1,20 @@
+{
+    "name": "Edvan de jesus",
+    "cpf": "86242757508",
+    "email": "edvanjesus340@gmail.com",
+    "phone": "75988186130",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpqrbamG",
+        "total_price": "194.49",
+        "status": "pending",
+        "created_at": "2024-12-08T09:35:18.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Josivan gleison Sousa da Concei\u00e7\u00e3o",
+    "cpf": "11205967346",
+    "email": "josivangleison48@gmail.com",
+    "phone": "55119842177",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3EQ9kVl3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-09T17:27:42.000000Z"
+    }
+}

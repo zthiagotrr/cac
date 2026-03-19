@@ -1,0 +1,20 @@
+{
+    "name": "Alexandre fries",
+    "cpf": "53181344087",
+    "email": "alexandre.asstec@gmail.com",
+    "phone": "51989081237",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "30NlVnLG",
+        "total_price": "108.33",
+        "status": "pending",
+        "created_at": "2024-11-29T01:55:12.000000Z"
+    }
+}

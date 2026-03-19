@@ -1,0 +1,20 @@
+{
+    "name": "Robert Souza Marques",
+    "cpf": "13373744660",
+    "email": "robertmarques20a@hotmail.com",
+    "phone": "32998524913",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gwKp2dpg",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-26T18:15:49.000000Z"
+    }
+}

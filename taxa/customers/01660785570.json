@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Fabio Alves De Santana",
+    "cpf": "01660785570",
+    "email": "josefabiofabinh565@gmail.com",
+    "phone": "21998755107",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GYvDn0Kg",
+        "total_price": "194.49",
+        "status": "pending",
+        "created_at": "2024-12-08T12:50:12.000000Z"
+    }
+}

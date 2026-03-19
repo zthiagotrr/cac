@@ -1,0 +1,20 @@
+{
+    "name": "Leandro Ferreira da Silva",
+    "cpf": "01645328627",
+    "email": "leandroferreiradasilva5679@gmail.com",
+    "phone": "33987091108",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E1jVnj3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-19T23:30:21.000000Z"
+    }
+}

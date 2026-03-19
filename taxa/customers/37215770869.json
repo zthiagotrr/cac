@@ -1,0 +1,20 @@
+{
+    "name": "Bruno Florentino da Silva",
+    "cpf": "37215770869",
+    "email": "brunosilva07012002@gmail.com",
+    "phone": "11940128118",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqyNBjvg",
+        "total_price": "188.13",
+        "status": "pending",
+        "created_at": "2024-11-29T00:06:41.000000Z"
+    }
+}

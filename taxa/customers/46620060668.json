@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Pedro Costa Neto",
+    "cpf": "46620060668",
+    "email": "pedrocostanetoj@gmail.com",
+    "phone": "31998242107",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6OLXOZ",
+        "total_price": "164.59",
+        "status": "pending",
+        "created_at": "2024-12-08T21:00:53.000000Z"
+    }
+}

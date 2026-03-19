@@ -1,0 +1,20 @@
+{
+    "name": "Everton Guimar\u00e3es de Paula",
+    "cpf": "16433983693",
+    "email": "evertonguimaraes119@gmail.com",
+    "phone": "37996718009",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LXJxqb3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-12T22:19:49.000000Z"
+    }
+}

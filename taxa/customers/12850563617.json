@@ -1,0 +1,20 @@
+{
+    "name": "WELDERT NUNES PATRICIO",
+    "cpf": "12850563617",
+    "email": "weldertnunes89@gmail.com",
+    "phone": "33998535220",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWvPvbOZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-09T10:52:52.000000Z"
+    }
+}

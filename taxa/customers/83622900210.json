@@ -1,0 +1,20 @@
+{
+    "name": "Pedrinho monteiro Silva",
+    "cpf": "83622900210",
+    "email": "invalido67485c8045ea4@gmail.com",
+    "phone": "95984146084",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZB1vyl13",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-28T12:05:20.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "roney dos anjos santos",
+    "cpf": "05749420507",
+    "email": "roney33anjos@gmail.com",
+    "phone": "35997573534",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9RDYjZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T13:44:52.000000Z"
+    }
+}

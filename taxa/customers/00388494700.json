@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Henrique Rodrigues de Andrade",
+    "cpf": "00388494700",
+    "email": "carlinhosbar55@hotmail.com",
+    "phone": "21966769729",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZokyRo1Z",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-01T21:54:23.000000Z"
+    }
+}

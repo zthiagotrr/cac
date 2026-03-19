@@ -1,0 +1,20 @@
+{
+    "name": "Wagner Euclides de Souza",
+    "cpf": "01132045827",
+    "email": "wagneresouza@gmail.com",
+    "phone": "45991129554",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G19p26YG",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-25T23:30:02.000000Z"
+    }
+}

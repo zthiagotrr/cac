@@ -1,0 +1,20 @@
+{
+    "name": "Jose Maria  de Souza",
+    "cpf": "08468119873",
+    "email": "jmoraesbauru@gmail.com",
+    "phone": "14980866900",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzY845RG",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-06T01:15:35.000000Z"
+    }
+}

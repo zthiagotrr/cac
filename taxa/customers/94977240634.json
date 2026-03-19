@@ -1,0 +1,20 @@
+{
+    "name": "Ivanio Aparecido Da Silva",
+    "cpf": "94977240634",
+    "email": "ivanioap.silva@hotmail.com",
+    "phone": "16991052150",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34984MdZ",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-23T22:02:33.000000Z"
+    }
+}

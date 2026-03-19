@@ -1,0 +1,20 @@
+{
+    "name": "Daniel Ferreira da Silva",
+    "cpf": "69645272491",
+    "email": "Danielfee86@gmail.com",
+    "phone": "81983911154",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkAvon3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-21T01:14:07.000000Z"
+    }
+}

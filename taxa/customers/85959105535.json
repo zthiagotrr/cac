@@ -1,0 +1,20 @@
+{
+    "name": "Fabio Rodrigo de Jesus Martins",
+    "cpf": "85959105535",
+    "email": "fabiomartis009@gmail.com",
+    "phone": "55549925097",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-12 13:34:27"
+    }
+}

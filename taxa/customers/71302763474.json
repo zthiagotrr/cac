@@ -1,0 +1,20 @@
+{
+    "name": "Joel Lima de Assis",
+    "cpf": "71302763474",
+    "email": "j706633@gmail.com",
+    "phone": "81999040914",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G1op91Y3",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-22T00:25:19.000000Z"
+    }
+}

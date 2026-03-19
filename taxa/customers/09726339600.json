@@ -1,0 +1,20 @@
+{
+    "name": "Rafael Vieira",
+    "cpf": "09726339600",
+    "email": "neutonpereira29jk@hotmail.com",
+    "phone": "38998849318",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Az6YVoZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-24T22:05:42.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Graciano de Pina Fleury",
+    "cpf": "30748380191",
+    "email": "gracianofleury@gmail.com",
+    "phone": "62986360069",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6PjwbZ",
+        "total_price": "194.49",
+        "status": "approved",
+        "created_at": "2024-12-07T10:42:22.000000Z"
+    }
+}

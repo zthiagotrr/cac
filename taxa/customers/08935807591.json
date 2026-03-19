@@ -1,0 +1,20 @@
+{
+    "name": "Maria de lourdes",
+    "cpf": "08935807591",
+    "email": "rafaelasantos@gmail.com",
+    "phone": "71999896589",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35p9Dxyg",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-23T13:25:48.000000Z"
+    }
+}

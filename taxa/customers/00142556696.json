@@ -1,0 +1,20 @@
+{
+    "name": "ENI Ros\u00e1rio de Almeida",
+    "cpf": "00142556696",
+    "email": "enirosarioalmeida@gmail.com",
+    "phone": "31991665620",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkL9nA3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-23T01:44:56.000000Z"
+    }
+}

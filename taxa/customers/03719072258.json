@@ -1,0 +1,20 @@
+{
+    "name": "Altemir Da cunha Ven\u00e2ncio",
+    "cpf": "03719072258",
+    "email": "altemirdacunhavenancio70@gmail.com",
+    "phone": "97984162858",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vYY0MZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T10:53:57.000000Z"
+    }
+}

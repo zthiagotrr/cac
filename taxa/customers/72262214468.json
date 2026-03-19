@@ -1,0 +1,20 @@
+{
+    "name": "jailson loureiro da silva",
+    "cpf": "72262214468",
+    "email": "jaloureirodasilva77@gmail.com",
+    "phone": "84991314250",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34NPRyEG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T19:14:24.000000Z"
+    }
+}

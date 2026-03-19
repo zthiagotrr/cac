@@ -1,0 +1,20 @@
+{
+    "name": "Rafael fontes Galm Rodrigues",
+    "cpf": "01019218533",
+    "email": "rafaelgalm@gmail.com",
+    "phone": "79999812210",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW68PbOZ",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-01T10:17:42.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Marcos Roberto Ribeiro",
+    "cpf": "41244249904",
+    "email": "marcos021roberto@gmail.com",
+    "phone": "69993754575",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVOpkAjg",
+        "total_price": "166.10",
+        "status": "pending",
+        "created_at": "2024-11-03T00:17:22.000000Z"
+    }
+}

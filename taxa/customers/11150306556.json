@@ -1,0 +1,20 @@
+{
+    "name": "Joelson da Silva de Oliveira",
+    "cpf": "11150306556",
+    "email": "dasilvadeoliveirajoelson955@gmail.com",
+    "phone": "71994037426",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gN948vyG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-12T13:58:29.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Thom\u00e1s dos Santos Teodoro",
+    "cpf": "37085723866",
+    "email": "bomboniere1987@gmail.com",
+    "phone": "31988969858",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzYOPW4G",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-22T10:30:51.000000Z"
+    }
+}

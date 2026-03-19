@@ -1,0 +1,20 @@
+{
+    "name": "Valfrido Fernandes de Oliveira",
+    "cpf": "38451247334",
+    "email": "valfrido21fernandes@gmail.com",
+    "phone": "85981479175",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3290jmdg",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T22:25:22.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Manoel Eust\u00e1quio de Jesus",
+    "cpf": "18859569672",
+    "email": "takinhoptu60@gmail.com",
+    "phone": "38988283133",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpDDay0Z",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-20T11:56:54.000000Z"
+    }
+}

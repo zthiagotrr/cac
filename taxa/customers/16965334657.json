@@ -1,0 +1,20 @@
+{
+    "name": "rog\u00e9rio alc\u00e2ntara",
+    "cpf": "16965334657",
+    "email": "allcantara7zo@gmail.com",
+    "phone": "34998551525",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVeQVxXZ",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-01T18:59:09.000000Z"
+    }
+}

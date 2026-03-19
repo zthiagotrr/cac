@@ -1,0 +1,20 @@
+{
+    "name": "P\u00e2mella Thais de Morais",
+    "cpf": "13077189658",
+    "email": "moraispamella197@gmail.com",
+    "phone": "34998351937",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7x5X9EG",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T01:13:27.000000Z"
+    }
+}

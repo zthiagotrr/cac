@@ -1,0 +1,20 @@
+{
+    "name": "Gustavo Nunes Silva",
+    "cpf": "70073282103",
+    "email": "gustavosilva.15@hotmail.com",
+    "phone": "64993236887",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vrjeMZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-20T16:53:38.000000Z"
+    }
+}

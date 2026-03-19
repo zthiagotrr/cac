@@ -1,0 +1,20 @@
+{
+    "name": "Siderlan Barros dos Santos",
+    "cpf": "36032677885",
+    "email": "siderlanbs@icloud.com",
+    "phone": "11957505056",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNeEOzPG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-17T14:51:22.000000Z"
+    }
+}

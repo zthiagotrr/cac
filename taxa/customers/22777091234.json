@@ -1,0 +1,20 @@
+{
+    "name": "Roberto Mauro dos Santos Matni",
+    "cpf": "22777091234",
+    "email": "robertommatni@gmail.com",
+    "phone": "94991718749",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AzlyVoZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-11-30T15:07:53.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Francisco Ferreira de Oliveira",
+    "cpf": "01028689306",
+    "email": "francisco.oliveira51@hotmail.com",
+    "phone": "99992122251",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVe4jbkZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-21T15:31:26.000000Z"
+    }
+}

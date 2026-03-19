@@ -1,0 +1,20 @@
+{
+    "name": "Francisco Sergio Fortaleza de Aquino",
+    "cpf": "13950452320",
+    "email": "sfortaleza@hotmail.com",
+    "phone": "83987850511",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZareBa0G",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-24T14:32:07.000000Z"
+    }
+}

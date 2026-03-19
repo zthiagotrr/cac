@@ -1,0 +1,20 @@
+{
+    "name": "J\u00falio Cesar da Silva Martins",
+    "cpf": "83125779049",
+    "email": "juliocesarmartins1985@gmail.com",
+    "phone": "51997953670",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gN9dkxzG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-06T01:08:31.000000Z"
+    }
+}

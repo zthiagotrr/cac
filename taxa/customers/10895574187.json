@@ -1,0 +1,20 @@
+{
+    "name": "Adauto Severino da Silva",
+    "cpf": "10895574187",
+    "email": "adautoshobukan@gmail.com",
+    "phone": "67999812185",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWVpm8jZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T19:40:53.000000Z"
+    }
+}

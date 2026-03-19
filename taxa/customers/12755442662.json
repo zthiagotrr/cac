@@ -1,0 +1,20 @@
+{
+    "name": "Marcos vinicios silva valerio",
+    "cpf": "12755442662",
+    "email": "macosvinicios2223@icloud.com",
+    "phone": "35998816886",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzY74W5G",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-17T16:01:55.000000Z"
+    }
+}

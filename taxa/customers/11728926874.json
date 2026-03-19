@@ -1,0 +1,20 @@
+{
+    "name": "Wagner Valdemar de Souza",
+    "cpf": "11728926874",
+    "email": "wagner.sousami@gmail.com",
+    "phone": "18996719660",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVeK6L9Z",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-18T23:46:09.000000Z"
+    }
+}

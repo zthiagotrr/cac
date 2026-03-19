@@ -1,0 +1,20 @@
+{
+    "name": "JOSIE DA SILVA GIROUX",
+    "cpf": "22071598334",
+    "email": "grx9911@gmail.com",
+    "phone": "85999856804",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkqena3",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T17:44:35.000000Z"
+    }
+}

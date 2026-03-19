@@ -1,0 +1,20 @@
+{
+    "name": "Mauril Leal de Paula Junior",
+    "cpf": "01594198675",
+    "email": "mauril87@gmail.com",
+    "phone": "34996668030",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vDA1NZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T07:03:38.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Eduardo Delmiro Bezerra Santos",
+    "cpf": "44015492870",
+    "email": "esantos75027@gmail.com",
+    "phone": "11970996622",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMeaoonZ",
+        "total_price": "194.49",
+        "status": "pending",
+        "created_at": "2024-12-08T19:56:36.000000Z"
+    }
+}

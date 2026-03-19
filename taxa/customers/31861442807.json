@@ -1,0 +1,20 @@
+{
+    "name": "Idenilson aparecido vicente",
+    "cpf": "31861442807",
+    "email": "idevicentesp@icloud.com",
+    "phone": "11990065559",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gPeV9zj3",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T13:59:25.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Edenilton padilha cavalheiro",
+    "cpf": "06295350941",
+    "email": "edeniltoncavalheiro@hotmail.com",
+    "phone": "49999685623",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.00",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 20:13:55"
+    }
+}

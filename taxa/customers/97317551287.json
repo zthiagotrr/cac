@@ -1,0 +1,20 @@
+{
+    "name": "Jackson Paulo Costa Queiroz",
+    "cpf": "97317551287",
+    "email": "paullocosta1505@gmail.com",
+    "phone": "92993919888",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "36NKJYy3",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T11:19:42.000000Z"
+    }
+}

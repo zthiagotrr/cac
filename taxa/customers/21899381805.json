@@ -1,0 +1,20 @@
+{
+    "name": "Deivid de Souza Canarin",
+    "cpf": "21899381805",
+    "email": "deivid.canarin@stargaz.com.br",
+    "phone": "16996045113",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7x5xMaG",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T00:14:06.000000Z"
+    }
+}

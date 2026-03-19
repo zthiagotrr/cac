@@ -1,0 +1,20 @@
+{
+    "name": "Vantuir top\u00e1zio sales",
+    "cpf": "94911959991",
+    "email": "topaziosales@gmail.com",
+    "phone": "48996059419",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-12 12:09:17"
+    }
+}

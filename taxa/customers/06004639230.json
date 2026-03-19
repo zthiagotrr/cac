@@ -1,0 +1,20 @@
+{
+    "name": "Wellyson Chrytian Melo Barbosa",
+    "cpf": "06004639230",
+    "email": "wellysonchrytian2003@icloud.com",
+    "phone": "95991536561",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "36NBqmo3",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-04T05:15:04.000000Z"
+    }
+}

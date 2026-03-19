@@ -1,0 +1,20 @@
+{
+    "name": "jorge coninck",
+    "cpf": "67957650910",
+    "email": "jorgeconinck21@gmail.com",
+    "phone": "47991088270",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbEQeQO3",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-14T00:53:42.000000Z"
+    }
+}

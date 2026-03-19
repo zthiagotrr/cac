@@ -1,0 +1,20 @@
+{
+    "name": "F\u00e1bio J\u00fanior de Souza",
+    "cpf": "52274241287",
+    "email": "oficinajr32@gmail.com",
+    "phone": "45991188827",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8rBoWZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-28T15:48:54.000000Z"
+    }
+}

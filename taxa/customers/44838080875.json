@@ -1,0 +1,20 @@
+{
+    "name": "Tomaz Veras Favilla",
+    "cpf": "44838080875",
+    "email": "tomaz.veras@gmail.com",
+    "phone": "11985511027",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZvyBP1B3",
+        "total_price": "108.33",
+        "status": "approved",
+        "created_at": "2024-11-29T01:11:57.000000Z"
+    }
+}

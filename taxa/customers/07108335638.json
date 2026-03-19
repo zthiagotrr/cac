@@ -1,0 +1,20 @@
+{
+    "name": "Geraldo Souza Silva",
+    "cpf": "07108335638",
+    "email": "gs1259600@gmail.com",
+    "phone": "31982594832",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6doAwZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T13:32:35.000000Z"
+    }
+}

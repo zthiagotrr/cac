@@ -1,0 +1,20 @@
+{
+    "name": "Alexandre Valdir de Oliveira",
+    "cpf": "01943778736",
+    "email": "alaoralexandre.oliveira@gmail.com",
+    "phone": "21971755071",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-09 10:18:54"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Givanildo de lima alves",
+    "cpf": "07562924414",
+    "email": "anildo@gmail.com",
+    "phone": "83999120069",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zy0Xzxx3",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-22T09:14:10.000000Z"
+    }
+}

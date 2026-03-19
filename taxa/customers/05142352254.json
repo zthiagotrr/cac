@@ -1,0 +1,20 @@
+{
+    "name": "Irlam Gabriel Baia Alves",
+    "cpf": "05142352254",
+    "email": "irlamalves320@gmail.com",
+    "phone": "91999890622",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjW8Kqn3",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-13T15:26:35.000000Z"
+    }
+}

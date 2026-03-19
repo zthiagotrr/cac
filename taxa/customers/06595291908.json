@@ -1,0 +1,20 @@
+{
+    "name": "Edimar Fernandes madeira",
+    "cpf": "06595291908",
+    "email": "edimarfernandes283@gmail.com",
+    "phone": "48991913933",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gl2p4QBZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-26T22:35:14.000000Z"
+    }
+}

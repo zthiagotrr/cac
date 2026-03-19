@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Marcos da Silva",
+    "cpf": "30409130850",
+    "email": "paulo.telefonic4@gmail.com",
+    "phone": "11964958466",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "349RAWAZ",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-25T14:33:25.000000Z"
+    }
+}

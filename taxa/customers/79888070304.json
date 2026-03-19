@@ -1,0 +1,20 @@
+{
+    "name": "Mauricio Ferreira",
+    "cpf": "79888070304",
+    "email": "mauricioester2017@gmail.com",
+    "phone": "85981582858",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZvyoMrw3",
+        "total_price": "97.20",
+        "status": "pending",
+        "created_at": "2024-11-24T00:56:23.000000Z"
+    }
+}

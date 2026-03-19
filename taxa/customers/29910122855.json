@@ -1,0 +1,20 @@
+{
+    "name": "Marcelo pereira de oliveira",
+    "cpf": "29910122855",
+    "email": "marcelojunior07@hotmail.com",
+    "phone": "11999145564",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zpq9xRoG",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-26T01:23:35.000000Z"
+    }
+}

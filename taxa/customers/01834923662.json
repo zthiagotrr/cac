@@ -1,0 +1,20 @@
+{
+    "name": "Giovanni Junior Pereira ribeiro Junior",
+    "cpf": "01834923662",
+    "email": "giovanniribeiro15102014@gmail.com",
+    "phone": "31989324984",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E16p203",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T19:55:30.000000Z"
+    }
+}

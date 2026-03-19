@@ -1,0 +1,20 @@
+{
+    "name": "Maur\u00edcio pereira calado",
+    "cpf": "91903076404",
+    "email": "mauriciovigilantepereira@gmail.com",
+    "phone": "81987339243",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNvyvQPg",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-23T07:32:24.000000Z"
+    }
+}

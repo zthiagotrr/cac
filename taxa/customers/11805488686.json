@@ -1,0 +1,20 @@
+{
+    "name": "Junio Aparecido Alves Viana",
+    "cpf": "11805488686",
+    "email": "juniotrader2021@outlook.com",
+    "phone": "31980254041",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVwEMag",
+        "total_price": "117.20",
+        "status": "pending",
+        "created_at": "2024-11-26T03:48:13.000000Z"
+    }
+}

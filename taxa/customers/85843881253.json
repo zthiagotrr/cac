@@ -1,0 +1,20 @@
+{
+    "name": "Roberto carlos beninca",
+    "cpf": "85843881253",
+    "email": "robertobeninca12@gmail.com",
+    "phone": "69999148334",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzXlmzVZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-23T16:36:04.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Breno Mendes Cardoso",
+    "cpf": "06527403160",
+    "email": "brenomendes6789@gmail.com",
+    "phone": "61995918973",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "geVbApp3",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-22T03:57:38.000000Z"
+    }
+}

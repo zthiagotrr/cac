@@ -1,0 +1,20 @@
+{
+    "name": "Mario Alves Silva",
+    "cpf": "06918383485",
+    "email": "marioalves2508@gmil.com",
+    "phone": "11986475296",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zx0jxl4Z",
+        "total_price": "176.20",
+        "status": "pending",
+        "created_at": "2024-11-03T08:13:50.000000Z"
+    }
+}

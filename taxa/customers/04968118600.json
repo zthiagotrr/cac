@@ -1,0 +1,20 @@
+{
+    "name": "Ezequiel Batista dos Reis",
+    "cpf": "04968118600",
+    "email": "batistaezequiel2019@gmail.com",
+    "phone": "62999525931",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMv6pWQG",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-21T00:51:23.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Evandro Peres da Costa",
+    "cpf": "91930561172",
+    "email": "epc.escolta@hotmail.com",
+    "phone": "61991648993",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E197Bw3",
+        "total_price": "114.69",
+        "status": "approved",
+        "created_at": "2024-12-08T10:17:00.000000Z"
+    }
+}

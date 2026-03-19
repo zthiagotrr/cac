@@ -1,0 +1,20 @@
+{
+    "name": "Marcos Luis Sousa Castro",
+    "cpf": "08813175353",
+    "email": "marcos.s.castro@ibge.gov.br",
+    "phone": "85999346028",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9N10L5g",
+        "total_price": "96.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:06:25.000000Z"
+    }
+}

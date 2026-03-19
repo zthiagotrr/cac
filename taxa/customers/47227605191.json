@@ -1,0 +1,20 @@
+{
+    "name": "Ribamar da cruz Araujo",
+    "cpf": "47227605191",
+    "email": "ribamardacruzaraujo7@gmail.com",
+    "phone": "99991802831",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9lvYEbZ",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-23T14:32:24.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Celso Marcenaria de Miranda Junior",
+    "cpf": "11517051878",
+    "email": "celsommjunior@gmail.com",
+    "phone": "19996791518",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "geEkdlXg",
+        "total_price": "108.33",
+        "status": "pending",
+        "created_at": "2024-11-29T19:39:36.000000Z"
+    }
+}

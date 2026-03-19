@@ -1,0 +1,20 @@
+{
+    "name": "Alex Augusto de Lima",
+    "cpf": "34264691893",
+    "email": "alexaugustodelima2@gmail.com",
+    "phone": "14998819799",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zo4JvJVG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-09T13:14:59.000000Z"
+    }
+}

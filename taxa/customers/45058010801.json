@@ -1,0 +1,20 @@
+{
+    "name": "Henrique Vieira Hidalgo",
+    "cpf": "45058010801",
+    "email": "henrique_vhidalgo@hotmail.com",
+    "phone": "19997288379",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E121p13",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-02T11:09:46.000000Z"
+    }
+}

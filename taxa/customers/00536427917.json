@@ -1,0 +1,20 @@
+{
+    "name": "Gilberto Ramos de matos",
+    "cpf": "00536427917",
+    "email": "gilbertoramosmatos@gmail.com",
+    "phone": "41987387306",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7eW6xDg",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T03:07:44.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Edvanda Pereira lima",
+    "cpf": "06720001566",
+    "email": "moniquelima2874@gmail.com",
+    "phone": "75991120614",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34ba4dLG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-05T15:44:32.000000Z"
+    }
+}

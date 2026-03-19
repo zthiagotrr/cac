@@ -1,0 +1,20 @@
+{
+    "name": "Francisco Xavier Silva",
+    "cpf": "25314421895",
+    "email": "xavier331045@outlook.com",
+    "phone": "19996551375",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34NkEqvG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-20T01:34:39.000000Z"
+    }
+}

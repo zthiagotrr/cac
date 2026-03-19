@@ -1,0 +1,20 @@
+{
+    "name": "Kennedy de sena martins",
+    "cpf": "03484213205",
+    "email": "kennedysenad@gmail.com",
+    "phone": "92993986625",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-12 14:34:52"
+    }
+}

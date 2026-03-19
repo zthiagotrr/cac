@@ -1,0 +1,20 @@
+{
+    "name": "Lu\u00eds Henrique Santana Santos",
+    "cpf": "36718133850",
+    "email": "henriqueluis23.lh@gmail.com",
+    "phone": "11977060078",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8qLeEZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-24T11:14:21.000000Z"
+    }
+}

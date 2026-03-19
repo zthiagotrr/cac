@@ -1,0 +1,20 @@
+{
+    "name": "Edson ussoman",
+    "cpf": "51551551500",
+    "email": "celaowrs@uol.com",
+    "phone": "11996328989",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVew1k0Z",
+        "total_price": "188.13",
+        "status": "pending",
+        "created_at": "2024-11-29T09:58:57.000000Z"
+    }
+}

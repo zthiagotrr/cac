@@ -1,0 +1,20 @@
+{
+    "name": "Jetro nascimento de Abreu",
+    "cpf": "03209566283",
+    "email": "jetrobreu91@gmail.com",
+    "phone": "85991045369",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6dovzZ",
+        "total_price": "164.59",
+        "status": "pending",
+        "created_at": "2024-12-08T13:33:00.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Rodrigo sena rossi",
+    "cpf": "38748612871",
+    "email": "senarossi1190@gmail.com",
+    "phone": "11917694019",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Lv21OxG",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-25T03:51:12.000000Z"
+    }
+}

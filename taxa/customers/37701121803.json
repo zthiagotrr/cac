@@ -1,0 +1,20 @@
+{
+    "name": "Guilherme randi Mathias",
+    "cpf": "37701121803",
+    "email": "guilhermemathias550@gmail.com",
+    "phone": "11932482233",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3290Voeg",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-25T21:28:38.000000Z"
+    }
+}

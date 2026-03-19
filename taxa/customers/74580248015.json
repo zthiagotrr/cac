@@ -1,0 +1,20 @@
+{
+    "name": "Valter luiz zeni",
+    "cpf": "74580248015",
+    "email": "valterlzeni@gmail.com",
+    "phone": "54996919854",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k86YnxZ",
+        "total_price": "164.59",
+        "status": "approved",
+        "created_at": "2024-12-08T14:22:30.000000Z"
+    }
+}

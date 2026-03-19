@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Carlos pedroso",
+    "cpf": "02084893984",
+    "email": "carlospedroso960@gmail.com",
+    "phone": "47988030788",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZyyV2m2Z",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-06T12:22:46.000000Z"
+    }
+}

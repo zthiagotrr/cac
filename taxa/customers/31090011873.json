@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Arthur Ribeiro Corr\u00eaa",
+    "cpf": "31090011873",
+    "email": "luizarthurcorrea@gmail.com",
+    "phone": "12991875270",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8NOvXzg",
+        "total_price": "164.59",
+        "status": "pending",
+        "created_at": "2024-12-07T12:51:56.000000Z"
+    }
+}

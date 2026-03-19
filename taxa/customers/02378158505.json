@@ -1,0 +1,20 @@
+{
+    "name": "Leopoldino Rodrigues Santos Neto",
+    "cpf": "02378158505",
+    "email": "lrodrigues.netoo@gmail.com",
+    "phone": "73991359145",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NLb1m3",
+        "total_price": "147.10",
+        "status": "approved",
+        "created_at": "2024-11-25T23:45:15.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Douglas Ribeiro Brasil",
+    "cpf": "04388768146",
+    "email": "ldtransportes2018@gmail.com",
+    "phone": "61995694242",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32myeDeg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-11T23:16:48.000000Z"
+    }
+}

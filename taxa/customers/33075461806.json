@@ -1,0 +1,20 @@
+{
+    "name": "Ronaldo Cardoso Soares",
+    "cpf": "33075461806",
+    "email": "ronaldocardososoares1482@gmail.com",
+    "phone": "19971375590",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNeavn6G",
+        "total_price": "188.13",
+        "status": "pending",
+        "created_at": "2024-11-29T15:08:15.000000Z"
+    }
+}

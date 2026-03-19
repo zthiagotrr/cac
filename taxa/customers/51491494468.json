@@ -1,0 +1,20 @@
+{
+    "name": "Valdecir Batista Pedroza",
+    "cpf": "51491494468",
+    "email": "valdecirpedroza1@gmail.com",
+    "phone": "47992369416",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G1oYDWN3",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-23T09:57:25.000000Z"
+    }
+}

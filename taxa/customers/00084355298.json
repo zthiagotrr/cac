@@ -1,0 +1,20 @@
+{
+    "name": "Walmir Sebasti\u00e3o Cunha dos Reis",
+    "cpf": "00084355298",
+    "email": "reiswalmir943@gmail.com",
+    "phone": "91985185979",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3ka4XwkG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-11T01:42:49.000000Z"
+    }
+}

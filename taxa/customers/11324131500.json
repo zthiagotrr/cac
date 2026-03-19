@@ -1,0 +1,20 @@
+{
+    "name": "Lucas Rodrigues Queiroz",
+    "cpf": "11324131500",
+    "email": "rodrigues70010@gmail.com",
+    "phone": "75983523755",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "geRvjjq3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-11T21:38:27.000000Z"
+    }
+}

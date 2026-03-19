@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Abreu da Concei\u00e7\u00e3o",
+    "cpf": "62175074390",
+    "email": "carlinhostecladista3@gmail.com",
+    "phone": "98982340789",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gldjjaQg",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-23T18:28:54.000000Z"
+    }
+}

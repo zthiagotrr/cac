@@ -1,0 +1,20 @@
+{
+    "name": "Diogo do Esp\u00edrito Santo Ribeiro",
+    "cpf": "11692385720",
+    "email": "diogobolchevick1@gmail.com",
+    "phone": "21968294759",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMvpK1oG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T18:16:45.000000Z"
+    }
+}

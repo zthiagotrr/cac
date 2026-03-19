@@ -1,0 +1,20 @@
+{
+    "name": "Leonardo Alves Do Nascimento",
+    "cpf": "12533055794",
+    "email": "nado_pqd@hotmail.com",
+    "phone": "21967598175",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6Yjx6Z",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-25T10:10:12.000000Z"
+    }
+}

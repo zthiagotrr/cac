@@ -1,0 +1,20 @@
+{
+    "name": "Michel Balbino Bouhid",
+    "cpf": "05202359756",
+    "email": "fnxconsultoria@gmsil.com",
+    "phone": "21999827778",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gm9DjAEg",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T21:03:45.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Maria  Claudete marques oliveira",
+    "cpf": "00584871317",
+    "email": "claudetymarques1982@gmail.com",
+    "phone": "14997141441",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.00",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 20:39:25"
+    }
+}

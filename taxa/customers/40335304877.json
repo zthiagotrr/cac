@@ -1,0 +1,20 @@
+{
+    "name": "Emerson Henrique L\u00facio",
+    "cpf": "40335304877",
+    "email": "henrique.lucio21@outlook.com",
+    "phone": "12997500077",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJMLjmQ3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-07T18:06:19.000000Z"
+    }
+}

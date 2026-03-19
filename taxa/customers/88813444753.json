@@ -1,0 +1,20 @@
+{
+    "name": "Edilson Ozella Ara\u00fajo",
+    "cpf": "88813444753",
+    "email": "edilson@ozellalink.com.br",
+    "phone": "21972268403",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZB1PEm13",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T20:23:27.000000Z"
+    }
+}

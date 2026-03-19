@@ -1,0 +1,20 @@
+{
+    "name": "josimar santos Pimentel",
+    "cpf": "62917218304",
+    "email": "josimarsantospimentel@gmail.com",
+    "phone": "92993457442",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJvV1m2Z",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T05:19:09.000000Z"
+    }
+}

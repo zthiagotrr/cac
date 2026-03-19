@@ -1,0 +1,20 @@
+{
+    "name": "Antonio Uedson Pimentel",
+    "cpf": "05354894395",
+    "email": "wedsonpimentel7@gmail.com",
+    "phone": "88981658680",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8dWMxZ",
+        "total_price": "195.30",
+        "status": "approved",
+        "created_at": "2024-11-30T00:44:33.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Geraldo Brito da Costa J\u00fanior",
+    "cpf": "02826978292",
+    "email": "923636brito@gmail.com",
+    "phone": "92996168868",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpqOQ8oG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-19T19:27:29.000000Z"
+    }
+}

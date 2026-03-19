@@ -1,0 +1,20 @@
+{
+    "name": "Anderson cezar da Silva",
+    "cpf": "26532534889",
+    "email": "acsilvasjc0376@gmail.com",
+    "phone": "12997030276",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zaop9Erg",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-01T17:30:51.000000Z"
+    }
+}

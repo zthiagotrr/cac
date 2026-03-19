@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Cesar Ferreira",
+    "cpf": "29051719876",
+    "email": "pauloferreiraengenheiro@gmail.com",
+    "phone": "14997383798",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "geVRoAq3",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-19T12:26:54.000000Z"
+    }
+}

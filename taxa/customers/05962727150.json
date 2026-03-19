@@ -1,0 +1,20 @@
+{
+    "name": "Luiz magdo salinas Galhardo",
+    "cpf": "05962727150",
+    "email": "luizmagdosalinasgalhardo5632@gmail.com",
+    "phone": "67992723847",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZokMb2OZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-18T23:38:00.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Rodrigo da Silva",
+    "cpf": "33037811846",
+    "email": "rodrigo.plasticosinova@gmail.com",
+    "phone": "11948944098",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzYq8eEG",
+        "total_price": "204.49",
+        "status": "pending",
+        "created_at": "2024-12-08T11:46:36.000000Z"
+    }
+}

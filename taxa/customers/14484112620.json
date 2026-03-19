@@ -1,0 +1,20 @@
+{
+    "name": "Gustavo Gabriel de Campos",
+    "cpf": "14484112620",
+    "email": "gg8756133@gmail.com",
+    "phone": "35998137538",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVelY2JZ",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-02T18:38:03.000000Z"
+    }
+}

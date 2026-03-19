@@ -1,0 +1,20 @@
+{
+    "name": "LEONARDO FERREIRA JOAQUIM",
+    "cpf": "10648939960",
+    "email": "Pedrocajose1996@gmail.com",
+    "phone": "11979730655",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zvypqnw3",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-27T03:58:37.000000Z"
+    }
+}

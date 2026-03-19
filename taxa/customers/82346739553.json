@@ -1,0 +1,20 @@
+{
+    "name": "jefferson silva de souza",
+    "cpf": "82346739553",
+    "email": "infjefferson@gmail.com",
+    "phone": "71982651531",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "30Np2A9G",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-25T21:11:02.000000Z"
+    }
+}

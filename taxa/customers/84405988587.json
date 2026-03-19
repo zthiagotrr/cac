@@ -1,0 +1,20 @@
+{
+    "name": "Evaldo Braz Alves",
+    "cpf": "84405988587",
+    "email": "vardinhodosteclados7@gmail.com",
+    "phone": "73991276193",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZoYA494g",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T17:49:00.000000Z"
+    }
+}

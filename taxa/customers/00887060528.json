@@ -1,0 +1,20 @@
+{
+    "name": "Marcelo Pereira de melo",
+    "cpf": "00887060528",
+    "email": "mattos_@hotmail.com",
+    "phone": "77999157267",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3XooLJJg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-22T23:23:10.000000Z"
+    }
+}

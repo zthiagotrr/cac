@@ -1,0 +1,20 @@
+{
+    "name": "Helbes Fernandes Gon\u00e7alves",
+    "cpf": "00643764194",
+    "email": "helbes35@hotmail.com",
+    "phone": "64992673641",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzYBO22G",
+        "total_price": "138.23",
+        "status": "approved",
+        "created_at": "2024-11-28T20:35:27.000000Z"
+    }
+}

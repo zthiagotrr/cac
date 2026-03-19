@@ -1,0 +1,20 @@
+{
+    "name": "Mauro Cesar Ribeiro",
+    "cpf": "02394031344",
+    "email": "maurocesar456789@gmail.com",
+    "phone": "62992618158",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZxOpy5V3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T16:00:00.000000Z"
+    }
+}

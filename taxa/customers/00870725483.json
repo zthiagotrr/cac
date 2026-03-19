@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Batista Tavares de Souza",
+    "cpf": "00870725483",
+    "email": "Joaopedreirorv@gmail.com",
+    "phone": "64999687034",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3XoP8MMg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T11:50:07.000000Z"
+    }
+}

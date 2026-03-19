@@ -1,0 +1,20 @@
+{
+    "name": "Marcelo dos Santos Ara\u00fajo",
+    "cpf": "09112997420",
+    "email": "MarcelodosSantosAraujo82@gmeio.com",
+    "phone": "81993943428",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "36bx7Ro3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T21:24:51.000000Z"
+    }
+}

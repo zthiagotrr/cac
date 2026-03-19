@@ -1,0 +1,20 @@
+{
+    "name": "Angelo phillipe Silva de Albuquerque",
+    "cpf": "70315571438",
+    "email": "phillipealbuquerque320@gmail.com",
+    "phone": "82991223675",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbBnorKZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-18T01:02:19.000000Z"
+    }
+}

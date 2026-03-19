@@ -1,0 +1,20 @@
+{
+    "name": "ADSON MONTEIRO MACEDO",
+    "cpf": "96206640272",
+    "email": "adsonmacedo153@gmail.com",
+    "phone": "66984580952",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "30NlL8OG",
+        "total_price": "108.33",
+        "status": "pending",
+        "created_at": "2024-11-28T21:11:43.000000Z"
+    }
+}

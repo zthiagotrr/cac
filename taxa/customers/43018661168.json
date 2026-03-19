@@ -1,0 +1,20 @@
+{
+    "name": "Junio Moreira da Silva",
+    "cpf": "43018661168",
+    "email": "silvajuniomoreira@gmail.com",
+    "phone": "62993643878",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9z0bDZ",
+        "total_price": "194.49",
+        "status": "approved",
+        "created_at": "2024-12-06T11:50:05.000000Z"
+    }
+}

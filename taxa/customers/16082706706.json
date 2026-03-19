@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Henrique Almeida Silva Gon\u00e7alves",
+    "cpf": "16082706706",
+    "email": "kaikealmeida400@gmail.com",
+    "phone": "24992087010",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gl296M5Z",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-19T20:35:16.000000Z"
+    }
+}

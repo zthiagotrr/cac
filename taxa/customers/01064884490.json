@@ -1,0 +1,20 @@
+{
+    "name": "Francisco Celestino Fernandes Silva",
+    "cpf": "01064884490",
+    "email": "celestinofrancisco462@gmail.com",
+    "phone": "84996615361",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbjNrOBZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T12:03:36.000000Z"
+    }
+}

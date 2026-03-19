@@ -1,0 +1,20 @@
+{
+    "name": "Anderson Miranda dos Santos",
+    "cpf": "01027020984",
+    "email": "andersonmiranda10051988@gmail.com",
+    "phone": "42999124827",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zpq0wnVG",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-11-30T13:36:19.000000Z"
+    }
+}

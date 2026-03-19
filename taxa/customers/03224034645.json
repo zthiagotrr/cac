@@ -1,0 +1,20 @@
+{
+    "name": "Denizete Bento de Cristo",
+    "cpf": "03224034645",
+    "email": "bentinhosmaquinas@gmail.com",
+    "phone": "24981344753",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3RmkxyNg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-12T20:29:09.000000Z"
+    }
+}

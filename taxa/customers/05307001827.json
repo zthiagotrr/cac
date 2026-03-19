@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Alberto Alvares",
+    "cpf": "05307001827",
+    "email": "audiocomunicar@hotmail.com",
+    "phone": "13997219291",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zo4vMmNG",
+        "total_price": "146.30",
+        "status": "pending",
+        "created_at": "2024-11-03T15:29:59.000000Z"
+    }
+}

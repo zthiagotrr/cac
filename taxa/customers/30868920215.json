@@ -1,0 +1,20 @@
+{
+    "name": "Eliton da Silva Dias",
+    "cpf": "30868920215",
+    "email": "elitondasilvadias@gmail.com",
+    "phone": "68999406085",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9lJ8NAZ",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-24T01:53:49.000000Z"
+    }
+}

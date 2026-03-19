@@ -1,0 +1,20 @@
+{
+    "name": "Roberto aparecido alves Alves",
+    "cpf": "02275693858",
+    "email": "boieingtamvasp@gmail.com",
+    "phone": "11947160172",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJMEljq3",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-09T02:28:57.000000Z"
+    }
+}

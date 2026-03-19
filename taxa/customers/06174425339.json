@@ -1,0 +1,20 @@
+{
+    "name": "Marcos gleisson silva Ferreira",
+    "cpf": "06174425339",
+    "email": "marcosgleissonflamengo@gmail.com",
+    "phone": "86995786935",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vD0PPZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T09:52:58.000000Z"
+    }
+}

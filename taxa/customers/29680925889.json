@@ -1,0 +1,20 @@
+{
+    "name": "Amauri Lopes",
+    "cpf": "29680925889",
+    "email": "lopesamauri703@gmail.com",
+    "phone": "35991167815",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zxya624G",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:50:23.000000Z"
+    }
+}

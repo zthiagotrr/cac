@@ -1,0 +1,20 @@
+{
+    "name": "Marlom de souza do sacramento",
+    "cpf": "86530996540",
+    "email": "marlomsouza20@gmail.com",
+    "phone": "71991125624",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "30NxV7OG",
+        "total_price": "194.49",
+        "status": "pending",
+        "created_at": "2024-12-08T10:10:05.000000Z"
+    }
+}

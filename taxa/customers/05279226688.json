@@ -1,0 +1,20 @@
+{
+    "name": "Joaquim landin da silva",
+    "cpf": "05279226688",
+    "email": "fabiolandin25@gmail.com",
+    "phone": "38984256516",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gQ7NL0NZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-21T18:27:57.000000Z"
+    }
+}

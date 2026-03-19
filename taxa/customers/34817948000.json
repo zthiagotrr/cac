@@ -1,0 +1,20 @@
+{
+    "name": "Moacir Ara\u00fajo Santana",
+    "cpf": "34817948000",
+    "email": "guaibapoa@hotmail.com",
+    "phone": "51991467667",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9QYj8Z",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-25T22:27:15.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Juliano Ferreira dos Santos",
+    "cpf": "08471323400",
+    "email": "julianoferreira2926@gmail.com",
+    "phone": "83994193840",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZvoE41QG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T20:20:34.000000Z"
+    }
+}

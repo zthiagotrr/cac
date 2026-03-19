@@ -1,0 +1,20 @@
+{
+    "name": "F\u00e1bio Novais Carneiro",
+    "cpf": "95903011500",
+    "email": "fabionovais.carneiro@gmail.com",
+    "phone": "79999084750",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NbVbw3",
+        "total_price": "117.20",
+        "status": "approved",
+        "created_at": "2024-11-21T03:55:08.000000Z"
+    }
+}

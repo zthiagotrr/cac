@@ -1,0 +1,20 @@
+{
+    "name": "Rubens ferreira dos Santos",
+    "cpf": "22727612400",
+    "email": "ferreirarubens1962@gmail.com",
+    "phone": "82988794266",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "329rV50g",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T09:26:11.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Maike M De oliveira",
+    "cpf": "38038569814",
+    "email": "Maikemedeiros360@Gmail.com",
+    "phone": "11952932846",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zvoy8XaG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-19T18:44:21.000000Z"
+    }
+}

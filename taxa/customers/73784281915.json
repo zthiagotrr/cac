@@ -1,0 +1,20 @@
+{
+    "name": "Moacir Francisco Sehnem",
+    "cpf": "73784281915",
+    "email": "slsembalagens@hotmail.com",
+    "phone": "51980532777",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNvvxjPg",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-20T11:11:42.000000Z"
+    }
+}

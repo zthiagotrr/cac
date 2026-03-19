@@ -1,0 +1,20 @@
+{
+    "name": "Anthony Cleber dos Santos",
+    "cpf": "37724367817",
+    "email": "anthonyclebersantos@gmail.com",
+    "phone": "13981963954",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8waWeQ3",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-24T15:28:25.000000Z"
+    }
+}

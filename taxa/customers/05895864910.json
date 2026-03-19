@@ -1,0 +1,20 @@
+{
+    "name": "Mois\u00e9s Fernando seidler",
+    "cpf": "05895864910",
+    "email": "mfsfernando5@gmail.com",
+    "phone": "48988391608",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbBvJjyZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-27T08:55:47.000000Z"
+    }
+}

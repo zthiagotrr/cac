@@ -1,0 +1,20 @@
+{
+    "name": "LuizHenrique melquiades da Silva",
+    "cpf": "04958974180",
+    "email": "LuizHenriquemelquiades5@gmail.com",
+    "phone": "63993110495",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMvm4k8G",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T22:54:40.000000Z"
+    }
+}

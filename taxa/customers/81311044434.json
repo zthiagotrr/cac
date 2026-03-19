@@ -1,0 +1,20 @@
+{
+    "name": "Djailson Silva de Morais",
+    "cpf": "81311044434",
+    "email": "djailsonsdmorais@gmail.com",
+    "phone": "35991646333",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZvyYE6y3",
+        "total_price": "97.20",
+        "status": "pending",
+        "created_at": "2024-11-17T20:17:56.000000Z"
+    }
+}

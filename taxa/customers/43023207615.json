@@ -1,0 +1,20 @@
+{
+    "name": "Geraldo Siqueira Lima Filho",
+    "cpf": "43023207615",
+    "email": "geraldosiqueiralimafilho1@gmail.com",
+    "phone": "35999181606",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GYYkOAVG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-06T14:48:34.000000Z"
+    }
+}

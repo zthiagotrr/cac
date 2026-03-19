@@ -1,0 +1,20 @@
+{
+    "name": "Renato Silvestre de Oliveira Junior",
+    "cpf": "13449904604",
+    "email": "renatojunior805@gmail.com",
+    "phone": "31996877500",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOzy12J3",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-04T15:41:06.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jurandir Barbosa dos Santos",
+    "cpf": "78338387568",
+    "email": "jurandirjurandir454@gmail.com",
+    "phone": "55349973191",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LezDMVZ",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-04T04:00:52.000000Z"
+    }
+}

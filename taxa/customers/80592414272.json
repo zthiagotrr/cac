@@ -1,0 +1,20 @@
+{
+    "name": "Douglas eloia de lima",
+    "cpf": "80592414272",
+    "email": "douglaslima.dedle@gmail.com",
+    "phone": "92984984750",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZokbPKNZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-26T13:38:05.000000Z"
+    }
+}

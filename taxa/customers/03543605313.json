@@ -1,0 +1,20 @@
+{
+    "name": "Francisco ariclenes oliveira da Silva",
+    "cpf": "03543605313",
+    "email": "ariclenes118@gmail.com",
+    "phone": "88992084504",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3RePmemg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T11:25:19.000000Z"
+    }
+}

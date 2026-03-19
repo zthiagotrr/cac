@@ -1,0 +1,20 @@
+{
+    "name": "Juan Pablo Machado da Rocha",
+    "cpf": "06733545551",
+    "email": "businessjuanmkt@gmail.com",
+    "phone": "71999123488",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NqBLJ3",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:55:54.000000Z"
+    }
+}

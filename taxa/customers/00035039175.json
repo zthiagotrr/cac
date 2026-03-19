@@ -1,0 +1,20 @@
+{
+    "name": "Josimar Vieira Carvalho",
+    "cpf": "00035039175",
+    "email": "josimarvieiracarvalho174@gmail.com",
+    "phone": "89981168793",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZxyJQYjG",
+        "total_price": "114.69",
+        "status": "approved",
+        "created_at": "2024-12-06T11:54:34.000000Z"
+    }
+}

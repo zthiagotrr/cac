@@ -1,0 +1,20 @@
+{
+    "name": "Eduardo padim de oliveira",
+    "cpf": "06828956605",
+    "email": "eduardopadim858@gmail.com",
+    "phone": "31997606746",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GnDv0zd3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T23:09:11.000000Z"
+    }
+}

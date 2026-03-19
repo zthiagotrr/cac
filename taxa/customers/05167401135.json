@@ -1,0 +1,20 @@
+{
+    "name": "Isac dias de Almeida",
+    "cpf": "05167401135",
+    "email": "diasalmeida3090@gmail.com",
+    "phone": "62995572251",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3EvNWolZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T23:32:21.000000Z"
+    }
+}

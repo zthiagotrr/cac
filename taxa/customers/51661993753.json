@@ -1,0 +1,20 @@
+{
+    "name": "Jorge B lemos",
+    "cpf": "51661993753",
+    "email": "jorgelemos2008@hotmail.com",
+    "phone": "21999118954",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzYpx1JG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-27T08:39:56.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jean Carlos de Santana Lopes",
+    "cpf": "10517923718",
+    "email": "jeanlopes9carlos@gmail.com",
+    "phone": "85992241770",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k88Q5AZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-23T09:59:46.000000Z"
+    }
+}

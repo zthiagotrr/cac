@@ -1,0 +1,20 @@
+{
+    "name": "cleverson  Marcelo giacomin",
+    "cpf": "00785603905",
+    "email": "giacomincleverson@gmail.com",
+    "phone": "45998001189",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6d4X6Z",
+        "total_price": "96.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:57:02.000000Z"
+    }
+}

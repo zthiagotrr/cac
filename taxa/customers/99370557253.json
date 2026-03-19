@@ -1,0 +1,20 @@
+{
+    "name": "Dinele da Silva Alves",
+    "cpf": "99370557253",
+    "email": "dinelealves6@gmail.com",
+    "phone": "93992042902",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8N07eVg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:31:12.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Juvenal Soares da Silva",
+    "cpf": "32623496153",
+    "email": "juvenalsoaresdasilva94@gmail.com",
+    "phone": "65981222637",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJevdJ43",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-23T22:42:12.000000Z"
+    }
+}

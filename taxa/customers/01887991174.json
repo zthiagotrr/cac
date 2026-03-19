@@ -1,0 +1,20 @@
+{
+    "name": "Ezequiel lopes Monteiro",
+    "cpf": "01887991174",
+    "email": "Matheuslopesmonteiro0@gmail.com",
+    "phone": "66999358548",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWvm06wZ",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-11T01:16:18.000000Z"
+    }
+}

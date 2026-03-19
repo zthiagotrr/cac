@@ -1,0 +1,20 @@
+{
+    "name": "Douglas de Sousa Almeida",
+    "cpf": "08183547478",
+    "email": "almeidadouglas13@gmail.com",
+    "phone": "81971205869",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVOYnag",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-19T13:15:41.000000Z"
+    }
+}

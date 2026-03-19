@@ -1,0 +1,20 @@
+{
+    "name": "Denizete Souza Braga",
+    "cpf": "90134168615",
+    "email": "doni.braga@gmail.com",
+    "phone": "31987232681",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GYvMEjKg",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-17T22:38:17.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Leonardo Oliveira Botelho",
+    "cpf": "86820273215",
+    "email": "leo-blaszczykowski@hotmail.com",
+    "phone": "96981250357",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqDvJzJG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T21:18:20.000000Z"
+    }
+}

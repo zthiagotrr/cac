@@ -1,0 +1,20 @@
+{
+    "name": "Valcioni Cl\u00e1udio de Souza",
+    "cpf": "50171720920",
+    "email": "claudiovalcioni@gmail.com",
+    "phone": "48991143465",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMeBMDvZ",
+        "total_price": "204.49",
+        "status": "pending",
+        "created_at": "2024-12-03T23:36:57.000000Z"
+    }
+}

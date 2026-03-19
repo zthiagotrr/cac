@@ -1,0 +1,20 @@
+{
+    "name": "Gilmar Aparecido Iglesias Abrami",
+    "cpf": "03171513803",
+    "email": "gilmar.iglesias@gmail.com",
+    "phone": "11998885500",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3ReA99mg",
+        "total_price": "174.59",
+        "status": "pending",
+        "created_at": "2024-12-02T01:56:37.000000Z"
+    }
+}

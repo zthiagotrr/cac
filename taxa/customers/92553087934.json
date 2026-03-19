@@ -1,0 +1,20 @@
+{
+    "name": "Luis Doroir Miranda",
+    "cpf": "92553087934",
+    "email": "luismirandaa143@gmail.com",
+    "phone": "49991735424",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35LDJa1g",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-09T22:35:27.000000Z"
+    }
+}

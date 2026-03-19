@@ -1,0 +1,20 @@
+{
+    "name": "Alex Moreira Gomes",
+    "cpf": "02923828399",
+    "email": "alexsamy2016@gmail.com",
+    "phone": "99992133593",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOzP1XX3",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T12:37:22.000000Z"
+    }
+}

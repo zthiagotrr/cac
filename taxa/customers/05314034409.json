@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Ad\u00e9lio da Silva",
+    "cpf": "05314034409",
+    "email": "adelio.agcs96@gmail.com",
+    "phone": "88996495556",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6wDBbZ",
+        "total_price": "108.33",
+        "status": "approved",
+        "created_at": "2024-11-28T18:37:45.000000Z"
+    }
+}

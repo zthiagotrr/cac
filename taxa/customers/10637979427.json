@@ -1,0 +1,20 @@
+{
+    "name": "Israel Ferreira da Silva",
+    "cpf": "10637979427",
+    "email": "israellbook@gmail.com",
+    "phone": "83986810911",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-10 16:35:26"
+    }
+}

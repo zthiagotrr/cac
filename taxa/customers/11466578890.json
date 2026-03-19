@@ -1,0 +1,20 @@
+{
+    "name": "Julio Cesar Pereira",
+    "cpf": "11466578890",
+    "email": "julio.escritorio1@gmail.com",
+    "phone": "19983564508",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vKEnPZ",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-01T18:10:06.000000Z"
+    }
+}

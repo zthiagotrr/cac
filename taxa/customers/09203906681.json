@@ -1,0 +1,20 @@
+{
+    "name": "Thiago Rafael do couto",
+    "cpf": "09203906681",
+    "email": "thiagonet851@gmail.com",
+    "phone": "37998694598",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zx04VBEZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-09T10:40:59.000000Z"
+    }
+}

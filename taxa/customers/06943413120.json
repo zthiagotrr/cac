@@ -1,0 +1,20 @@
+{
+    "name": "Marcos de Lima Ferreira",
+    "cpf": "06943413120",
+    "email": "marcosdelima9814@gmail.com",
+    "phone": "61998141972",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Le02k1Z",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-26T08:41:36.000000Z"
+    }
+}

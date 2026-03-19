@@ -1,0 +1,20 @@
+{
+    "name": "Nicolas bueno",
+    "cpf": "48666048832",
+    "email": "nicolasbueno6969@gmail.com",
+    "phone": "11948353584",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vMMXPZ",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-26T02:07:14.000000Z"
+    }
+}

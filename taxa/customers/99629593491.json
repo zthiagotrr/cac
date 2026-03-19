@@ -1,0 +1,20 @@
+{
+    "name": "Ronaldo do Nascimento Silva",
+    "cpf": "99629593491",
+    "email": "nascimentoronaldo75@gmail.com",
+    "phone": "11981984134",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNe72vyG",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-04T00:53:44.000000Z"
+    }
+}

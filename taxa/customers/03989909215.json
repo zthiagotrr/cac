@@ -1,0 +1,20 @@
+{
+    "name": "Jair Maciel de Castro",
+    "cpf": "03989909215",
+    "email": "riajbr@gmail.com",
+    "phone": "91980965636",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9lk6XAZ",
+        "total_price": "146.57",
+        "status": "approved",
+        "created_at": "2024-12-24T21:40:19.000000Z"
+    }
+}

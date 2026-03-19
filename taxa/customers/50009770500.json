@@ -1,0 +1,20 @@
+{
+    "name": "Edmundo dos Santos Silva",
+    "cpf": "50009770500",
+    "email": "edimundoss@hotmail.com",
+    "phone": "75981550827",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVJEQQbG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-23T19:36:45.000000Z"
+    }
+}

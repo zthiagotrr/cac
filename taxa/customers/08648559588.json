@@ -1,0 +1,20 @@
+{
+    "name": "Igor Pereira de Souza",
+    "cpf": "08648559588",
+    "email": "ip924746@gmail.com",
+    "phone": "77999922619",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AzWOroZ",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-05T15:15:37.000000Z"
+    }
+}

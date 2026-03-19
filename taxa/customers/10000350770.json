@@ -1,0 +1,20 @@
+{
+    "name": "Eduardo C\u00e9sar Tito Ribeiro do val",
+    "cpf": "10000350770",
+    "email": "eduardotitoprofissional@gmail.com",
+    "phone": "21998057441",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34Nkk1VG",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-20T01:11:27.000000Z"
+    }
+}

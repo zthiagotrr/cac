@@ -1,0 +1,20 @@
+{
+    "name": "Lucas Henrique fiminelo da Silva",
+    "cpf": "12608044450",
+    "email": "lucas.henrrique1707@gmail.com",
+    "phone": "71991376202",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": ".",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 16:54:29"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Lucas matheus Carvalho de matos",
+    "cpf": "13202935496",
+    "email": "lucasflamengo1941@gmail.com",
+    "phone": "19992721103",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3kaQvqWG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-06T23:58:52.000000Z"
+    }
+}

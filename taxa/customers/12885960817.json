@@ -1,0 +1,20 @@
+{
+    "name": "Manoel Messias Moreira Da Silva",
+    "cpf": "12885960817",
+    "email": "manoelmessiasmoreira64@gmail.com",
+    "phone": "16988162516",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZarexM4G",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-24T01:21:43.000000Z"
+    }
+}

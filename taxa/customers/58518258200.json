@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o valbeci Alves Barbosa",
+    "cpf": "58518258200",
+    "email": "jbarbosapm08@gmail.com",
+    "phone": "68992123643",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpDp6dWZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T21:48:00.000000Z"
+    }
+}

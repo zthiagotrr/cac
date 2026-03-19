@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Ribeiro Perrotta Junior",
+    "cpf": "73789712868",
+    "email": "perrottajr@uol.com.br",
+    "phone": "12997821128",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDvAexng",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-22T16:56:49.000000Z"
+    }
+}

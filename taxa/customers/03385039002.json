@@ -1,0 +1,20 @@
+{
+    "name": "Luis Felipe Maidana Chuma",
+    "cpf": "03385039002",
+    "email": "luisfelipemaidanachuma@gmail.com",
+    "phone": "55991768991",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVOAVodg",
+        "total_price": "117.20",
+        "status": "approved",
+        "created_at": "2024-11-05T21:53:23.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Henrique Braz da Silva",
+    "cpf": "18007615890",
+    "email": "paulobaruc2017@gmail.com",
+    "phone": "11913560809",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpqbmzVG",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-02T15:23:24.000000Z"
+    }
+}

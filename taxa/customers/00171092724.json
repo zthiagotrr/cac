@@ -1,0 +1,20 @@
+{
+    "name": "Robson vander merenciano",
+    "cpf": "00171092724",
+    "email": "robinhomultimarcas015@gmail.com",
+    "phone": "48998409410",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqyKNNWg",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-19T01:20:41.000000Z"
+    }
+}

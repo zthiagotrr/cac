@@ -1,0 +1,20 @@
+{
+    "name": "Ana Paula Aparecida Guimar\u00e3es",
+    "cpf": "33826384873",
+    "email": "lpauloguimaraes18@gmil.com",
+    "phone": "11988177266",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbBylNNZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-01T16:56:28.000000Z"
+    }
+}

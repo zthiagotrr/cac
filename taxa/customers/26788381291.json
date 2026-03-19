@@ -1,0 +1,20 @@
+{
+    "name": "Maria M\u00e1rcia sousa",
+    "cpf": "26788381291",
+    "email": "ml7238169@gmail.com",
+    "phone": "66992107706",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr900zKZ",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-03T00:20:56.000000Z"
+    }
+}

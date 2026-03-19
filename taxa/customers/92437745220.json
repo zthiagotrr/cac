@@ -1,0 +1,20 @@
+{
+    "name": "Marcos Pinheiro de Souza",
+    "cpf": "92437745220",
+    "email": "marcospinheiro.rep@gmail.com",
+    "phone": "65993092988",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34N46B9G",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:38:40.000000Z"
+    }
+}

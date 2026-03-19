@@ -1,0 +1,20 @@
+{
+    "name": "Denis Ant\u00f4nio trindade",
+    "cpf": "35900755894",
+    "email": "denistrindade63@gmail.com",
+    "phone": "18991353725",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVxKylg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T20:38:51.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Kellyson Oliveira Pereira",
+    "cpf": "91326060287",
+    "email": "kellysounidos@gmail.com",
+    "phone": "96999146967",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZD07xK8Z",
+        "total_price": "96.20",
+        "status": "pending",
+        "created_at": "2024-11-02T17:02:12.000000Z"
+    }
+}

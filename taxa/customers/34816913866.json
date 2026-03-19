@@ -1,0 +1,20 @@
+{
+    "name": "Jurandir aparecido da silva",
+    "cpf": "34816913866",
+    "email": "judasi2023@gmail.com",
+    "phone": "14997092626",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkExJ93",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-23T22:15:30.000000Z"
+    }
+}

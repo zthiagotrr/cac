@@ -1,0 +1,20 @@
+{
+    "name": "Darley Dos santos vanzeler",
+    "cpf": "07432092222",
+    "email": "darleydossantosvanzeler@gmail.com",
+    "phone": "96991538383",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-13 16:28:02"
+    }
+}

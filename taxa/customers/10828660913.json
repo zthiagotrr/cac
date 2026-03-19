@@ -1,0 +1,20 @@
+{
+    "name": "Noelcio ochoa da Concei\u00e7\u00e3o",
+    "cpf": "10828660913",
+    "email": "noelcioconceicao3@gmail.com",
+    "phone": "49988745466",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW62KkDZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T12:27:28.000000Z"
+    }
+}

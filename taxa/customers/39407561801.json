@@ -1,0 +1,20 @@
+{
+    "name": "Denis Fl\u00e1vio de Moraes",
+    "cpf": "39407561801",
+    "email": "denismoraes17@gmail.com",
+    "phone": "47997765562",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9PjYEZ",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-01T15:19:12.000000Z"
+    }
+}

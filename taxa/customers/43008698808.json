@@ -1,0 +1,20 @@
+{
+    "name": "Jhone J\u00fanior Vicente Batista",
+    "cpf": "43008698808",
+    "email": "jhonejunior4@gmail.com",
+    "phone": "11940895929",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32N9BaA3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T07:16:53.000000Z"
+    }
+}

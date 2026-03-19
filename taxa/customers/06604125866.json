@@ -1,0 +1,20 @@
+{
+    "name": "Jose donizete Silva",
+    "cpf": "06604125866",
+    "email": "pespontojd@hotmail.com.br",
+    "phone": "16992169192",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zaoz4j6g",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-06T12:26:39.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ramon malaquias olegario",
+    "cpf": "20917227743",
+    "email": "ramomolegario469@gmail.com",
+    "phone": "27999182413",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Az0rvMZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-21T21:28:27.000000Z"
+    }
+}

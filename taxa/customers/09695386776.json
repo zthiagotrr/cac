@@ -1,0 +1,20 @@
+{
+    "name": "Radam\u00e9s Silva J\u00fanior",
+    "cpf": "09695386776",
+    "email": "jr.radames@hotmail.com",
+    "phone": "21992296918",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k81OVLZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T18:26:37.000000Z"
+    }
+}

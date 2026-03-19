@@ -1,0 +1,20 @@
+{
+    "name": "Uelton de Jesus",
+    "cpf": "49523035860",
+    "email": "Ueltondejesus843@gmail.com",
+    "phone": "11981977268",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVjlj6g",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-25T03:00:20.000000Z"
+    }
+}

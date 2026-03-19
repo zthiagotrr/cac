@@ -1,0 +1,20 @@
+{
+    "name": "Edenilson de oliveira Pimentel",
+    "cpf": "18359135800",
+    "email": "nanicopimentel0450@gmail.com",
+    "phone": "55119533675",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G19kqRYG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T14:01:11.000000Z"
+    }
+}

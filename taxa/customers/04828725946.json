@@ -1,0 +1,20 @@
+{
+    "name": "Alexandre krieger",
+    "cpf": "04828725946",
+    "email": "xandealan1984@hotmail.com",
+    "phone": "04799607586",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8q07kZ",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-23T16:29:22.000000Z"
+    }
+}

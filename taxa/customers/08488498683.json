@@ -1,0 +1,20 @@
+{
+    "name": "Augusto Jarbas D. Gomes",
+    "cpf": "08488498683",
+    "email": "augustopersonal5@gmail.com",
+    "phone": "31972361217",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GYYmkjaG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-13T15:20:20.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Elquias nunes da silva monteiro neto",
+    "cpf": "81366442253",
+    "email": "elquiasneto_45@hotmail.com",
+    "phone": "91983017380",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZKvJvK13",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T16:17:08.000000Z"
+    }
+}

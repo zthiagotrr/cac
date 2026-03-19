@@ -1,0 +1,20 @@
+{
+    "name": "pedro salom\u00e3o paloschi",
+    "cpf": "00624794075",
+    "email": "moveispaloschi@hotmail.com",
+    "phone": "51992844644",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZKePxwag",
+        "total_price": "194.49",
+        "status": "approved",
+        "created_at": "2024-12-07T11:28:03.000000Z"
+    }
+}

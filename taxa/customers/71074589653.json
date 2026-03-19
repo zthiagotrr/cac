@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Batista sersfim",
+    "cpf": "71074589653",
+    "email": "serafimjoaobatista71@gmail.com",
+    "phone": "35984042129",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqy7B8Ag",
+        "total_price": "204.49",
+        "status": "approved",
+        "created_at": "2024-12-04T16:25:53.000000Z"
+    }
+}

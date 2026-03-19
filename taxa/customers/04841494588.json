@@ -1,0 +1,20 @@
+{
+    "name": "Domingos Oliveira Rocha",
+    "cpf": "04841494588",
+    "email": "oliveirarochadomingos830@gmail.com",
+    "phone": "67992758606",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.00",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 15:51:04"
+    }
+}

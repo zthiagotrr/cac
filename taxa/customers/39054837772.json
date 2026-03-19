@@ -1,0 +1,20 @@
+{
+    "name": "H\u00e9lio da Silva quitete",
+    "cpf": "39054837772",
+    "email": "helioquitete1957@gmail.com",
+    "phone": "21990991741",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVEedeg",
+        "total_price": "117.20",
+        "status": "approved",
+        "created_at": "2024-11-28T14:54:15.000000Z"
+    }
+}

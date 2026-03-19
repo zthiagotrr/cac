@@ -1,0 +1,20 @@
+{
+    "name": "Joaci Fonseca Cardoso",
+    "cpf": "49645439272",
+    "email": "jcjoaci@gmail.com",
+    "phone": "92992258553",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZB106qp3",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-11-30T09:46:27.000000Z"
+    }
+}

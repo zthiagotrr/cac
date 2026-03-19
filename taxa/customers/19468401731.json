@@ -1,0 +1,20 @@
+{
+    "name": "Arthur Ferreira Pereira",
+    "cpf": "19468401731",
+    "email": "Arthur.ww2@outlook.com",
+    "phone": "22999286761",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDwy67m3",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-02T21:20:24.000000Z"
+    }
+}

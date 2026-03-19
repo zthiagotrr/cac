@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Henrique de Jesus Nunes",
+    "cpf": "40193498863",
+    "email": "paulo_nunes123@hotmail.com",
+    "phone": "19982656976",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVeLoV9Z",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-05T01:43:19.000000Z"
+    }
+}

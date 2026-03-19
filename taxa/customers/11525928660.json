@@ -1,0 +1,20 @@
+{
+    "name": "Fl\u00e1vio Moreira da Silva",
+    "cpf": "11525928660",
+    "email": "sil846287@gmail.com",
+    "phone": "31981044556",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6bqNjZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-25T22:37:49.000000Z"
+    }
+}

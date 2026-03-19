@@ -1,0 +1,20 @@
+{
+    "name": "Aluizio j\u00fanior Andrade da Silva",
+    "cpf": "15124032707",
+    "email": "aluizioandrade777@gmail.com",
+    "phone": "24999931642",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Re2D4Kg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:44:32.000000Z"
+    }
+}

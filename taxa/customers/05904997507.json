@@ -1,0 +1,20 @@
+{
+    "name": "Gustavo santos sena",
+    "cpf": "05904997507",
+    "email": "gustavosenna471@gmail.com",
+    "phone": "71993051741",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMvpLL8G",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T17:51:52.000000Z"
+    }
+}

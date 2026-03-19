@@ -1,0 +1,20 @@
+{
+    "name": "Adriano Cardoso",
+    "cpf": "09779136606",
+    "email": "adrianodri30seixas@gmail.com",
+    "phone": "31988696827",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZB1zBMP3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-22T11:45:44.000000Z"
+    }
+}

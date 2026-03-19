@@ -1,0 +1,20 @@
+{
+    "name": "Aldecir coelho Gon\u00e7alves",
+    "cpf": "98378120791",
+    "email": "aldecir.coelho51@gmail.com",
+    "phone": "21996710911",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3EvEPL0Z",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T19:21:23.000000Z"
+    }
+}

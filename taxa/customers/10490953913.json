@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Eduardo Sobrinho Hanna",
+    "cpf": "10490953913",
+    "email": "carloseduardosobrinho37@gmail.com",
+    "phone": "44997296741",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E12nEr3",
+        "total_price": "154.59",
+        "status": "approved",
+        "created_at": "2024-12-02T02:43:57.000000Z"
+    }
+}

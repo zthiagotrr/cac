@@ -1,0 +1,20 @@
+{
+    "name": "Claudio da Silva santos",
+    "cpf": "93410824553",
+    "email": "claudiosilva65445@gmail.com",
+    "phone": "11934567156",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zvy2XxL3",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T10:21:14.000000Z"
+    }
+}

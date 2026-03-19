@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Vitor bomfim rego",
+    "cpf": "18634252760",
+    "email": "vitorbomfim838@gmail.com",
+    "phone": "22999841243",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-10 14:31:03"
+    }
+}

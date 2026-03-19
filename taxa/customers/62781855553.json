@@ -1,0 +1,20 @@
+{
+    "name": "Agnaldo Oliveira Gon\u00e7alves Dias",
+    "cpf": "62781855553",
+    "email": "dragnaldodias@gmail.com",
+    "phone": "75999956721",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gdJ9az7Z",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-22T18:04:24.000000Z"
+    }
+}

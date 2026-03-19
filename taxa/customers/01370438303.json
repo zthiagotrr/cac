@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Eugenio de Sousa Rocha",
+    "cpf": "01370438303",
+    "email": "eugeniorocha627@gmail.com",
+    "phone": "85992126574",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZB5vNbB3",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-23T22:42:13.000000Z"
+    }
+}

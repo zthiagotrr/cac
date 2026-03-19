@@ -1,0 +1,20 @@
+{
+    "name": "Milton de Andrade Nascimento junior",
+    "cpf": "04898988318",
+    "email": "miltonjunior740@gmail.com",
+    "phone": "85992352663",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3RmR97lg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-06T08:58:49.000000Z"
+    }
+}

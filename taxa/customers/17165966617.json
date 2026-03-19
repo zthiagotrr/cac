@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Gulherme Amorim",
+    "cpf": "17165966617",
+    "email": "luizgulhermeamorim@gmail.com",
+    "phone": "38992593390",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9NlBDWg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T10:04:50.000000Z"
+    }
+}

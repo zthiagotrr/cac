@@ -1,0 +1,20 @@
+{
+    "name": "Rom\u00e1rio Souza Oliveira",
+    "cpf": "85804456555",
+    "email": "romariosouzaoliveira1@gmail.com",
+    "phone": "77999099485",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8DODDyZ",
+        "total_price": "97.20",
+        "status": "pending",
+        "created_at": "2024-11-09T10:51:31.000000Z"
+    }
+}

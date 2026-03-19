@@ -1,0 +1,20 @@
+{
+    "name": "Max Andr\u00e9 da Silva Bastos",
+    "cpf": "81297939204",
+    "email": "max.s.bastos@gmail.com",
+    "phone": "92992698463",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9PxODZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-01T14:52:56.000000Z"
+    }
+}

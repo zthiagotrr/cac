@@ -1,0 +1,20 @@
+{
+    "name": "Wilson Altino Pereira Junior",
+    "cpf": "00801227798",
+    "email": "altinowapjr@hotmail.com",
+    "phone": "27999921783",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJM1Qwr3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-13T23:57:20.000000Z"
+    }
+}

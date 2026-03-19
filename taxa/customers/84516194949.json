@@ -1,0 +1,20 @@
+{
+    "name": "Vahusiwn",
+    "cpf": "84516194949",
+    "email": "babahzh@bahw",
+    "phone": "42494946999",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-05 21:50:57"
+    }
+}

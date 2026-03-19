@@ -1,0 +1,20 @@
+{
+    "name": "Diogenes Zaneti",
+    "cpf": "08567798817",
+    "email": "dio.zaneti@gmail.com",
+    "phone": "11976838632",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNeRRbPG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:33:43.000000Z"
+    }
+}

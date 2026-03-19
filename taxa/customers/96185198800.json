@@ -1,0 +1,20 @@
+{
+    "name": "Manoel de jesus leme",
+    "cpf": "96185198800",
+    "email": "manoeldejesusleme@gmail.com",
+    "phone": "19994293682",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "329MyQeg",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-23T14:20:46.000000Z"
+    }
+}

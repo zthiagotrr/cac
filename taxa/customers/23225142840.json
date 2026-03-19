@@ -1,0 +1,20 @@
+{
+    "name": "Anderson da Silva cascardo Da Silva cascardo",
+    "cpf": "23225142840",
+    "email": "andersondasilvacascardo@gmail.com",
+    "phone": "12981426830",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7xdqwlG",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-03T08:57:46.000000Z"
+    }
+}

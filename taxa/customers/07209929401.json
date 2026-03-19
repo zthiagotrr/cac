@@ -1,0 +1,20 @@
+{
+    "name": "M\u00e1rcio F\u00e9lix da Silva",
+    "cpf": "07209929401",
+    "email": "felixmarcio149@gmail.com",
+    "phone": "81998734992",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7xVV7aG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-06T13:07:18.000000Z"
+    }
+}

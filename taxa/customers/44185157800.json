@@ -1,0 +1,20 @@
+{
+    "name": "Elias da Silva marinho",
+    "cpf": "44185157800",
+    "email": "elias.lory05@gmail.com",
+    "phone": "55119762605",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOzEkPd3",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-04T02:07:49.000000Z"
+    }
+}

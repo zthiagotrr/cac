@@ -1,0 +1,20 @@
+{
+    "name": "Iago Pires Monteiro",
+    "cpf": "15451819777",
+    "email": "iago.nrdk@hotmail.com",
+    "phone": "27995010731",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gmWpzkPZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:43:52.000000Z"
+    }
+}

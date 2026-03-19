@@ -1,0 +1,20 @@
+{
+    "name": "Leomar dos Santos",
+    "cpf": "01649935099",
+    "email": "dleomar653@gmail.com",
+    "phone": "55559971856",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6WzbzZ",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-04T10:02:25.000000Z"
+    }
+}

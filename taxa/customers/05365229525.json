@@ -1,0 +1,20 @@
+{
+    "name": "Vanderley de jesus silva",
+    "cpf": "05365229525",
+    "email": "vanderleyjesussilva94@gmail.com",
+    "phone": "11914796393",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVe1bzXZ",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T19:58:41.000000Z"
+    }
+}

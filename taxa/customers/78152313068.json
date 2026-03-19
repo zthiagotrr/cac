@@ -1,0 +1,20 @@
+{
+    "name": "Marcio Joel Reis Matte",
+    "cpf": "78152313068",
+    "email": "pr.marciomatte@gmail.com",
+    "phone": "51991593678",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZD0dWqWZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-10T21:20:02.000000Z"
+    }
+}

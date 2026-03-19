@@ -1,0 +1,20 @@
+{
+    "name": "Adauto Avelino da Silva costa",
+    "cpf": "08797580406",
+    "email": "avelino322@gmail.com",
+    "phone": "81989125881",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Az567bZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T12:12:49.000000Z"
+    }
+}

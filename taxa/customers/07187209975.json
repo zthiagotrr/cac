@@ -1,0 +1,20 @@
+{
+    "name": "Giovani mussato",
+    "cpf": "07187209975",
+    "email": "giovanimussato@outlook.com",
+    "phone": "46999354499",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gQeolQ8g",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-03T19:56:24.000000Z"
+    }
+}

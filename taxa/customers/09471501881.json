@@ -1,0 +1,20 @@
+{
+    "name": "Mikael junior",
+    "cpf": "09471501881",
+    "email": "mikaeljunior@gmail.com",
+    "phone": "11947195222",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zy0xn4M3",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-25T03:55:08.000000Z"
+    }
+}

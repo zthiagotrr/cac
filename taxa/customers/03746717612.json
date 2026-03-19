@@ -1,0 +1,20 @@
+{
+    "name": "Ismael batista Moura de cruz",
+    "cpf": "03746717612",
+    "email": "ismaelmouramoura27@gmail.com",
+    "phone": "31988324217",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZokPlW4Z",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T19:05:34.000000Z"
+    }
+}

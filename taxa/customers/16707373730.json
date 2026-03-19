@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Pedro dos Santos Telles",
+    "cpf": "16707373730",
+    "email": "jpbrasil205@gmail.com",
+    "phone": "21981038421",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqybW7ag",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-05T21:59:56.000000Z"
+    }
+}

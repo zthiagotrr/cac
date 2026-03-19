@@ -1,0 +1,20 @@
+{
+    "name": "Silvio rodrigues da Silva",
+    "cpf": "94892679100",
+    "email": "Silviorodrigues1528@gmail.com",
+    "phone": "62985261528",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpqjnqLG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T12:45:54.000000Z"
+    }
+}

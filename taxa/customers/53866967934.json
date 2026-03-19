@@ -1,0 +1,20 @@
+{
+    "name": "Renaldo manoel dos santos",
+    "cpf": "53866967934",
+    "email": "manoeldossantos2501@gmail.com",
+    "phone": "47996658532",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gmWO4EvZ",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-19T15:14:07.000000Z"
+    }
+}

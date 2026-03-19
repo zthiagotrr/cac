@@ -1,0 +1,20 @@
+{
+    "name": "Alexandro Rocha",
+    "cpf": "29211853850",
+    "email": "alexandro.rocha@arx.tec.br",
+    "phone": "11995382103",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNezAL1G",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-11-30T17:17:55.000000Z"
+    }
+}

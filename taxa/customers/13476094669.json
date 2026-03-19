@@ -1,0 +1,20 @@
+{
+    "name": "Everton kenio mesquita do vale",
+    "cpf": "13476094669",
+    "email": "mesquitahenrique44@gmail.com",
+    "phone": "38999343657",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "37.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-05 01:09:22"
+    }
+}

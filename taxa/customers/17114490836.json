@@ -1,0 +1,20 @@
+{
+    "name": "Moacir aparecido Gon\u00e7alves de Carvalho",
+    "cpf": "17114490836",
+    "email": "moacir.oficinacarvalho@gmail.com",
+    "phone": "12982086908",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LewyM1Z",
+        "total_price": "108.33",
+        "status": "approved",
+        "created_at": "2024-11-28T22:53:09.000000Z"
+    }
+}

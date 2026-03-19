@@ -1,0 +1,20 @@
+{
+    "name": "Edson Souza e Silva Junior",
+    "cpf": "36264568899",
+    "email": "edson.sesilva_jr@hotmail.com",
+    "phone": "11986380805",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "30MnwlOZ",
+        "total_price": "117.20",
+        "status": "pending",
+        "created_at": "2024-11-07T13:36:55.000000Z"
+    }
+}

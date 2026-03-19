@@ -1,0 +1,20 @@
+{
+    "name": "Diego Concei\u00e7\u00e3o Maciel",
+    "cpf": "00721269060",
+    "email": "maciel.poars.gov@gmail.com",
+    "phone": "51981887227",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8NYWA4g",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-27T11:31:59.000000Z"
+    }
+}

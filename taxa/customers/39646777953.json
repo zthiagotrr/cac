@@ -1,0 +1,20 @@
+{
+    "name": "Silvio Silvestre Ferreira",
+    "cpf": "39646777953",
+    "email": "silviosferreira2011@gmail.com",
+    "phone": "41987961976",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Rezrlyg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-06T11:12:53.000000Z"
+    }
+}

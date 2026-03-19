@@ -1,0 +1,20 @@
+{
+    "name": "Saulo romero de moura",
+    "cpf": "26462954809",
+    "email": "saulonicole@hotmail.com",
+    "phone": "11977069237",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZyQ20KxZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-06T21:26:26.000000Z"
+    }
+}

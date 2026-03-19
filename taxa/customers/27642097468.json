@@ -1,0 +1,20 @@
+{
+    "name": "Oswaldo Gomes de Barros filho",
+    "cpf": "27642097468",
+    "email": "droswaldogbf@hotmail.com",
+    "phone": "82999947177",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8mbL0Z",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-05T12:42:09.000000Z"
+    }
+}

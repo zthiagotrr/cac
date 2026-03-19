@@ -1,0 +1,20 @@
+{
+    "name": "Danieli Emidio da Fonseca",
+    "cpf": "14257048751",
+    "email": "danieliemidio58@gmail.com",
+    "phone": "24981155129",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbBxDrOZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:10:16.000000Z"
+    }
+}

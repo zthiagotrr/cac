@@ -1,0 +1,20 @@
+{
+    "name": "Fabio Pugliesi Bezerra",
+    "cpf": "24908327866",
+    "email": "fpugliesi261@gmail.com",
+    "phone": "13974222011",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr1vYpDZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T23:00:56.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Marcos Cesar Araujo dos Santos",
+    "cpf": "29726840287",
+    "email": "mcesar.araujo@gmail.com",
+    "phone": "19993565724",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vw6B1Z",
+        "total_price": "147.10",
+        "status": "approved",
+        "created_at": "2024-11-25T16:42:24.000000Z"
+    }
+}

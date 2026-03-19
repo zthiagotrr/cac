@@ -1,0 +1,20 @@
+{
+    "name": "Alex jesus dos Santos",
+    "cpf": "18067634785",
+    "email": "motog20alex@gmail.com",
+    "phone": "27997971033",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GnDp97l3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T15:04:31.000000Z"
+    }
+}

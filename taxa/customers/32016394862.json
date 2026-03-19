@@ -1,0 +1,20 @@
+{
+    "name": "Vander Israel",
+    "cpf": "32016394862",
+    "email": "vanisrael31@gmail.com",
+    "phone": "11951620520",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZaopbYRg",
+        "total_price": "154.59",
+        "status": "approved",
+        "created_at": "2024-12-01T17:04:45.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Wilton Goulart Marques",
+    "cpf": "07068608965",
+    "email": "wiltonmarques.jwgm@gmail.com",
+    "phone": "48998483502",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34NOaklG",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-01T02:11:25.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Francisco Oliveira Neto",
+    "cpf": "61684880572",
+    "email": "dhonesnetto@hotmail.com",
+    "phone": "31999539741",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zaoejk0g",
+        "total_price": "108.33",
+        "status": "pending",
+        "created_at": "2024-11-29T00:13:39.000000Z"
+    }
+}

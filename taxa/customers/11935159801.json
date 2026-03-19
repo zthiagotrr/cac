@@ -1,0 +1,20 @@
+{
+    "name": "Joselito Alves dos Santos",
+    "cpf": "11935159801",
+    "email": "solitosport@hotmail.com",
+    "phone": "11972167774",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gmW6z7PZ",
+        "total_price": "114.69",
+        "status": "approved",
+        "created_at": "2024-12-08T21:38:17.000000Z"
+    }
+}

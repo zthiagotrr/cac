@@ -1,0 +1,20 @@
+{
+    "name": "DEISON SOUZA LIMA",
+    "cpf": "13622096608",
+    "email": "deison030897@outlook.com",
+    "phone": "38999625154",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gPea5ze3",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-26T17:15:27.000000Z"
+    }
+}

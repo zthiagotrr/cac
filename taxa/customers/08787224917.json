@@ -1,0 +1,20 @@
+{
+    "name": "Leonardo Campanholi",
+    "cpf": "08787224917",
+    "email": "leohcmpnhl@gmail.com",
+    "phone": "45999288783",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJeWzmj3",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-03T13:32:31.000000Z"
+    }
+}

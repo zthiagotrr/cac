@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Lu\u00eds Zensque",
+    "cpf": "05301707876",
+    "email": "luiszensque@gmail.com",
+    "phone": "63992398681",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOvmx1d3",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T23:00:11.000000Z"
+    }
+}

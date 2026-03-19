@@ -1,0 +1,20 @@
+{
+    "name": "Fabiano Alves Proen\u00e7a Alves Proen\u00e7a",
+    "cpf": "42258406897",
+    "email": "falvesproenca11@gmail.com",
+    "phone": "19992877220",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-10 20:58:42"
+    }
+}

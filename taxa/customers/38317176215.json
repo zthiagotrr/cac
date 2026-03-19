@@ -1,0 +1,20 @@
+{
+    "name": "Carlos Silva dos Santos",
+    "cpf": "38317176215",
+    "email": "negaopaciencia@gmail.com",
+    "phone": "95991281099",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LvKEroG",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-23T16:38:14.000000Z"
+    }
+}

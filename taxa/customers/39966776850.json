@@ -1,0 +1,20 @@
+{
+    "name": "Gabriel Ant\u00f4nio Toledo Moreira",
+    "cpf": "39966776850",
+    "email": "gabriel.toledo1990@hotmail.com",
+    "phone": "12996414120",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZoYvBqXg",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T22:36:50.000000Z"
+    }
+}

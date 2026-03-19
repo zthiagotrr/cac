@@ -1,0 +1,20 @@
+{
+    "name": "Valber Sousa  Moreira",
+    "cpf": "06481853117",
+    "email": "furaovalberfurao8@gmail.com",
+    "phone": "99991569558",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDwxrjy3",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-02T09:52:23.000000Z"
+    }
+}

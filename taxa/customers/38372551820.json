@@ -1,0 +1,20 @@
+{
+    "name": "Rog\u00e9rio Soares novais",
+    "cpf": "38372551820",
+    "email": "soaresroger17@gmail.com",
+    "phone": "11984165950",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkPyll3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T18:33:36.000000Z"
+    }
+}

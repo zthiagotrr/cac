@@ -1,0 +1,20 @@
+{
+    "name": "Get\u00falio Batista do Nascimento Junior",
+    "cpf": "28895902831",
+    "email": "getulio-batista@hotmail.com",
+    "phone": "11986518778",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AzqBMbZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-04T17:37:47.000000Z"
+    }
+}

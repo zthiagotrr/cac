@@ -1,0 +1,20 @@
+{
+    "name": "Vini Business",
+    "cpf": "06702802161",
+    "email": "vinniempresa@gmail.com",
+    "phone": "61982615172",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZoYl6z4g",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T20:33:17.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Cristiano Prata de Oliveira",
+    "cpf": "36592079851",
+    "email": "cristianopratadeoliveira@yahoo.com.br",
+    "phone": "12988433672",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJe6ake3",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-24T23:23:12.000000Z"
+    }
+}

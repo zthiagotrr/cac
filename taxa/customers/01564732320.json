@@ -1,0 +1,20 @@
+{
+    "name": "J VALDERLAN R.G",
+    "cpf": "01564732320",
+    "email": "jvrg27@gmail.com",
+    "phone": "85994353617",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Ler8KVZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T10:08:28.000000Z"
+    }
+}

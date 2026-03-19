@@ -1,0 +1,20 @@
+{
+    "name": "Amarildo Lima Moreira",
+    "cpf": "02060303559",
+    "email": "amarildolima82@gmail.com",
+    "phone": "27998078846",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZB50ev93",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T20:28:40.000000Z"
+    }
+}

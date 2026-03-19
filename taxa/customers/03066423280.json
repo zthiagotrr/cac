@@ -1,0 +1,20 @@
+{
+    "name": "Ivan pinheiro Guedes",
+    "cpf": "03066423280",
+    "email": "ivanguedes144@gmail.com",
+    "phone": "93984356396",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWVpDlDZ",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T11:09:29.000000Z"
+    }
+}

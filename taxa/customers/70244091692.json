@@ -1,0 +1,20 @@
+{
+    "name": "OTAVIO PEREIRA BARBOSA",
+    "cpf": "70244091692",
+    "email": "otavioopereira43@gmail.com",
+    "phone": "38998683831",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-13 07:58:41"
+    }
+}

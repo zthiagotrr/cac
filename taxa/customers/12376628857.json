@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Carlos Pereira",
+    "cpf": "12376628857",
+    "email": "josephkarlo907@gmail.com",
+    "phone": "19982338754",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AedO7P3",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-24T02:53:41.000000Z"
+    }
+}

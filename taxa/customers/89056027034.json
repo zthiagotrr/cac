@@ -1,0 +1,20 @@
+{
+    "name": "Andr\u00e9 Luis Sanhudo Pereira",
+    "cpf": "89056027034",
+    "email": "andrepereirapereira785@gmail.com",
+    "phone": "48996535791",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVJ6XMkG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-21T22:43:09.000000Z"
+    }
+}

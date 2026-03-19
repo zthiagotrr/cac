@@ -1,0 +1,20 @@
+{
+    "name": "Valtair reiter",
+    "cpf": "07119977997",
+    "email": "valtairreiter1990@gmail.com",
+    "phone": "47991033105",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GYYydyBG",
+        "total_price": "67.00",
+        "status": "pending",
+        "created_at": "2024-11-04T01:14:31.000000Z"
+    }
+}

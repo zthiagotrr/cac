@@ -1,0 +1,20 @@
+{
+    "name": "Adriano Cardoso da Silva",
+    "cpf": "03936772223",
+    "email": "adrianocardososilva131@gmail.com",
+    "phone": "93991478562",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AzVYPjZ",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-21T17:06:01.000000Z"
+    }
+}

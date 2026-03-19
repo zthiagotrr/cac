@@ -1,0 +1,20 @@
+{
+    "name": "Rog\u00e9rio Guedes Moraes",
+    "cpf": "58898727020",
+    "email": "rogeriomorais185@gmail.com",
+    "phone": "51981845244",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7exenXg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-19T19:29:44.000000Z"
+    }
+}

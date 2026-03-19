@@ -1,0 +1,20 @@
+{
+    "name": "Cilon Moreto",
+    "cpf": "53962079068",
+    "email": "cilon.moreto@gmail.com",
+    "phone": "54996683280",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gPeV8mJ3",
+        "total_price": "96.69",
+        "status": "approved",
+        "created_at": "2024-12-08T12:02:35.000000Z"
+    }
+}

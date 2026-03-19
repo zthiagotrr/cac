@@ -1,0 +1,20 @@
+{
+    "name": "Everson Maciel hambrusch",
+    "cpf": "00912171995",
+    "email": "eversonhambrusch41@gmail.com",
+    "phone": "41992884147",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "30LpYXO3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T01:44:41.000000Z"
+    }
+}

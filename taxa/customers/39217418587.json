@@ -1,0 +1,20 @@
+{
+    "name": "Ant\u00f4nio jose Gon\u00e7alves Feitosa Eu",
+    "cpf": "39217418587",
+    "email": "afeitosahb2023@hotmail.com",
+    "phone": "79991717988",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzYdo44G",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-24T21:43:25.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Rodrigues Carvalho Filho",
+    "cpf": "02897382457",
+    "email": "joaorodriguescarvalho02@gmail.com",
+    "phone": "87999714289",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LePaBxZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T10:18:02.000000Z"
+    }
+}

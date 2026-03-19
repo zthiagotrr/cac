@@ -1,0 +1,20 @@
+{
+    "name": "Gustavo peralta de souza",
+    "cpf": "06140296196",
+    "email": "gustavops335@gmail.com",
+    "phone": "67982170066",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gmWnRnpZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-02T12:57:51.000000Z"
+    }
+}

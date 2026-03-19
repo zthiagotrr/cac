@@ -1,0 +1,20 @@
+{
+    "name": "Raimundo Gon\u00e7alves Neto",
+    "cpf": "27221920559",
+    "email": "raimundogoncalves204@gmail.com",
+    "phone": "74999556679",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GY225Pqg",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-20T12:13:43.000000Z"
+    }
+}

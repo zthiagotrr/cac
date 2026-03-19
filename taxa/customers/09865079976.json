@@ -1,0 +1,20 @@
+{
+    "name": "Rafael Mazzuco Alberton",
+    "cpf": "09865079976",
+    "email": "rafamalberton@hotmail.com",
+    "phone": "49999352245",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZxyVEXXG",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-21T15:49:06.000000Z"
+    }
+}

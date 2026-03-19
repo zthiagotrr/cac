@@ -1,0 +1,20 @@
+{
+    "name": "Luis Carlos De Almeida Gon\u00e7alves",
+    "cpf": "59797835553",
+    "email": "lognillog@gmail.com",
+    "phone": "75999451167",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GnaR0AkZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T10:06:17.000000Z"
+    }
+}

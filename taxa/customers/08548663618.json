@@ -1,0 +1,20 @@
+{
+    "name": "Edson Alves da Silva",
+    "cpf": "08548663618",
+    "email": "edinhoisumemo@gmail.com",
+    "phone": "19998905633",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVKaVLg",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-04T05:06:40.000000Z"
+    }
+}

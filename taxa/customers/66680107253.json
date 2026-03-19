@@ -1,0 +1,20 @@
+{
+    "name": "Raimundo Assun\u00e7\u00e3o dos Santos",
+    "cpf": "66680107253",
+    "email": "raimundo.higor1217@gmail.com",
+    "phone": "92999622699",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOzqkoN3",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T18:52:08.000000Z"
+    }
+}

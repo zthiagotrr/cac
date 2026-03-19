@@ -1,0 +1,20 @@
+{
+    "name": "Geraldo Jorge Souza Dias",
+    "cpf": "17965276020",
+    "email": "geraldodias55@gmail.com",
+    "phone": "11996856766",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNenVnBG",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-05T14:11:33.000000Z"
+    }
+}

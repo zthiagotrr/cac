@@ -1,0 +1,20 @@
+{
+    "name": "Joilson Teixeira Dos Santos",
+    "cpf": "29279734822",
+    "email": "joilsonteixeiradossantoss841@gmail.com",
+    "phone": "11911064449",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7xj15zG",
+        "total_price": "158.23",
+        "status": "pending",
+        "created_at": "2024-11-29T09:31:46.000000Z"
+    }
+}

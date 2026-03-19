@@ -1,0 +1,20 @@
+{
+    "name": "Renan Ot\u00e1vio da cruz soda",
+    "cpf": "18719638698",
+    "email": "renansodarenansoda@gmail.com",
+    "phone": "35998629145",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-07 21:39:53"
+    }
+}

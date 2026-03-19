@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Thomaz Zatti Pereira",
+    "cpf": "32459912668",
+    "email": "zattithomaz@gmail.com",
+    "phone": "31982101489",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJvy4y8Z",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-23T00:01:56.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Renato Janu\u00e1rio Da Silva",
+    "cpf": "01391886658",
+    "email": "renatinho89silva@gmail.com",
+    "phone": "31980134653",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWVVaaOZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-20T11:39:04.000000Z"
+    }
+}

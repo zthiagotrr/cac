@@ -1,0 +1,20 @@
+{
+    "name": "Luis fabiano gerolin",
+    "cpf": "59598867153",
+    "email": "ingridcoimbragerolin@gmail.com",
+    "phone": "55669841138",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-09 20:02:04"
+    }
+}

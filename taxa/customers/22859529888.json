@@ -1,0 +1,20 @@
+{
+    "name": "Walmir Rodrigo de godoi",
+    "cpf": "22859529888",
+    "email": "walmirgodoi137@gmail.com",
+    "phone": "12996208664",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3X8bvqM3",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-21T21:07:34.000000Z"
+    }
+}

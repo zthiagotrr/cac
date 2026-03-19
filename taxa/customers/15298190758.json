@@ -1,0 +1,20 @@
+{
+    "name": "Caio Campbell Antunes",
+    "cpf": "15298190758",
+    "email": "caiocampbell767.cc@gmail.com",
+    "phone": "24988583784",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8X97LZ",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-03T12:26:24.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Leonardo Lucas da Silva Lima",
+    "cpf": "38402004822",
+    "email": "lelisconfeccoess@gmail.com",
+    "phone": "31988610564",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZD0qvE8Z",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-07T21:34:26.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Vitalino nunes dos santos",
+    "cpf": "23736887000",
+    "email": "vitalinonunes32@gmail.com",
+    "phone": "48991091668",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34Nr7dlG",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-19T01:27:48.000000Z"
+    }
+}

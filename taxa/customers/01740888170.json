@@ -1,0 +1,20 @@
+{
+    "name": "Isa\u00edas ferreira de Souza",
+    "cpf": "01740888170",
+    "email": "isaiasferreiradesouza1024@gmail.com",
+    "phone": "66984013954",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3295Jx6g",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-20T23:54:16.000000Z"
+    }
+}

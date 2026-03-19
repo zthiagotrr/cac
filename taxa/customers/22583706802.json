@@ -1,0 +1,20 @@
+{
+    "name": "Claudimir Irineu Pires",
+    "cpf": "22583706802",
+    "email": "clau_irineu@hotmail.com",
+    "phone": "11973127082",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3kaele0G",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-12T20:15:55.000000Z"
+    }
+}

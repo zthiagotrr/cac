@@ -1,0 +1,20 @@
+{
+    "name": "Yuri Nandes Campos",
+    "cpf": "16716628738",
+    "email": "yuri.nandes@hotmail.com",
+    "phone": "21974853833",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8Njapdg",
+        "total_price": "154.59",
+        "status": "approved",
+        "created_at": "2024-12-04T16:20:02.000000Z"
+    }
+}

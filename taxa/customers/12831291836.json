@@ -1,0 +1,20 @@
+{
+    "name": "Neemias aguiar da silva",
+    "cpf": "12831291836",
+    "email": "neyaguiar77@gmail.com",
+    "phone": "11912563848",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3X8pQw93",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-25T20:13:02.000000Z"
+    }
+}

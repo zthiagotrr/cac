@@ -1,0 +1,20 @@
+{
+    "name": "Liedio Luiz da silva",
+    "cpf": "02040186760",
+    "email": "liediosilva13@gmail.com",
+    "phone": "22998011222",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZKeom4Eg",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-21T00:58:11.000000Z"
+    }
+}

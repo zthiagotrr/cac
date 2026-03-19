@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Nilton leite filho",
+    "cpf": "97013706191",
+    "email": "djniltinhomatrix@hotmail.com",
+    "phone": "55649992905",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-08 15:46:47"
+    }
+}

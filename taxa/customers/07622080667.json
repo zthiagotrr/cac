@@ -1,0 +1,20 @@
+{
+    "name": "Joelson Vieira dutra",
+    "cpf": "07622080667",
+    "email": "joelsonvieiradutra0@gmail.com",
+    "phone": "27998135317",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zbj6l4zZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T00:56:13.000000Z"
+    }
+}

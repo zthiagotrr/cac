@@ -1,0 +1,20 @@
+{
+    "name": "Joao Vitor Andrade Souza",
+    "cpf": "12238714600",
+    "email": "jaofla123@gmail.com",
+    "phone": "31990732748",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzY6PvyG",
+        "total_price": "114.69",
+        "status": "approved",
+        "created_at": "2024-12-08T19:41:18.000000Z"
+    }
+}

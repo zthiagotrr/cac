@@ -1,0 +1,20 @@
+{
+    "name": "Fernando Rocha",
+    "cpf": "34399552816",
+    "email": "fe.rocha.263@gmail.com",
+    "phone": "11983417901",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34N89apG",
+        "total_price": "147.10",
+        "status": "approved",
+        "created_at": "2024-11-28T10:51:47.000000Z"
+    }
+}

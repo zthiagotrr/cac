@@ -1,0 +1,20 @@
+{
+    "name": "Adenilson Almeida Santos",
+    "cpf": "08856504506",
+    "email": "adenilsonalmeidasantos123@gmail.com",
+    "phone": "77998412815",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-13 09:01:22"
+    }
+}

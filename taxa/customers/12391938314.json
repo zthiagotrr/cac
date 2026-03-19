@@ -1,0 +1,20 @@
+{
+    "name": "Marcelo Nascimento",
+    "cpf": "12391938314",
+    "email": "mn4732851@gmail.com",
+    "phone": "98988260248",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWVpyR6Z",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-25T16:17:31.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jair Batista da silva",
+    "cpf": "49328700191",
+    "email": "jairbatistadasilva12345678@gmail.com",
+    "phone": "61995132671",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.00",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 15:11:40"
+    }
+}

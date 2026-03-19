@@ -1,0 +1,20 @@
+{
+    "name": "Rodrigues D\u00e2maso Rosa",
+    "cpf": "67527868600",
+    "email": "cavaco55@yahoo.com.br",
+    "phone": "21987865331",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gQ7pm1WZ",
+        "total_price": "126.57",
+        "status": "approved",
+        "created_at": "2024-12-25T18:21:22.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Elesandro  Fernandes Barbosa",
+    "cpf": "01990862306",
+    "email": "elessandrofernandes388@gmail.com",
+    "phone": "85986947318",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZxOxORl3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T18:08:12.000000Z"
+    }
+}

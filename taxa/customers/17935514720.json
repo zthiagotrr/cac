@@ -1,0 +1,20 @@
+{
+    "name": "Wiliam jhone caldeira santos",
+    "cpf": "17935514720",
+    "email": "wiliamjhone7@gmail.com",
+    "phone": "27995037616",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E1lor83",
+        "total_price": "138.23",
+        "status": "pending",
+        "created_at": "2024-11-29T04:00:58.000000Z"
+    }
+}

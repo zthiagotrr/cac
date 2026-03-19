@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Edson de Lima",
+    "cpf": "03084010420",
+    "email": "joseedson2019pc@gmail.com",
+    "phone": "82993119350",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LvpWDjG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T19:25:00.000000Z"
+    }
+}

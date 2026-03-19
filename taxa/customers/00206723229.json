@@ -1,0 +1,20 @@
+{
+    "name": "Jessica Siqueira Rodrigues",
+    "cpf": "00206723229",
+    "email": "rodriguesjessica3287@gmail.com",
+    "phone": "91981744655",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr96M1AZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T19:52:29.000000Z"
+    }
+}

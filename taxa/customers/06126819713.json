@@ -1,0 +1,20 @@
+{
+    "name": "Samuel Barros de Oliveira",
+    "cpf": "06126819713",
+    "email": "samuelbarrosoliveira92@gmail.com",
+    "phone": "27999111751",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gmWwb8pZ",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-03T22:13:17.000000Z"
+    }
+}

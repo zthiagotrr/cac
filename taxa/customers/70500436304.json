@@ -1,0 +1,20 @@
+{
+    "name": "Ant\u00f4nio Luiz Gomes Farias",
+    "cpf": "70500436304",
+    "email": "antoniofarias2052@gmail.com",
+    "phone": "99981110225",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr1pbY8Z",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-22T17:56:34.000000Z"
+    }
+}

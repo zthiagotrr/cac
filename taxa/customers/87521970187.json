@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Fernandes barboza",
+    "cpf": "87521970187",
+    "email": "joaofbarboza2015@gmail.com",
+    "phone": "84994720774",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6yN5jZ",
+        "total_price": "204.49",
+        "status": "pending",
+        "created_at": "2024-12-01T23:43:11.000000Z"
+    }
+}

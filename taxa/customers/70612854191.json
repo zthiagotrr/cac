@@ -1,0 +1,20 @@
+{
+    "name": "Joshua da silva custodio",
+    "cpf": "70612854191",
+    "email": "jshcustodio@gmail.com",
+    "phone": "61982615172",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3EvlQErZ",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-24T06:31:47.000000Z"
+    }
+}

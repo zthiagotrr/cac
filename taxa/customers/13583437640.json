@@ -1,0 +1,20 @@
+{
+    "name": "Matheus Santana da silva",
+    "cpf": "13583437640",
+    "email": "matheusjdhd123@gmail.com",
+    "phone": "31995914220",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34bn7wLG",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-12T19:51:08.000000Z"
+    }
+}

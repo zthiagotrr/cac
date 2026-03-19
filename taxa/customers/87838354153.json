@@ -1,0 +1,20 @@
+{
+    "name": "Marlos Henrique Rastrelo",
+    "cpf": "87838354153",
+    "email": "mrastrelo@gmail.com",
+    "phone": "34998766693",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gd7Pja6G",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-07T11:28:23.000000Z"
+    }
+}

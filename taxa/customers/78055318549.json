@@ -1,0 +1,20 @@
+{
+    "name": "Wellington da Silva Oliveira",
+    "cpf": "78055318549",
+    "email": "wellingtonsilvaoliveira8@gmail.com",
+    "phone": "71999706053",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zy0BNBx3",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-24T01:57:52.000000Z"
+    }
+}

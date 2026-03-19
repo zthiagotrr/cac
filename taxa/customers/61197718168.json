@@ -1,0 +1,20 @@
+{
+    "name": "Delmivan Armando da Fonseca",
+    "cpf": "61197718168",
+    "email": "agnelo32@hotmail.com",
+    "phone": "64999968856",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NEXPA3",
+        "total_price": "114.69",
+        "status": "approved",
+        "created_at": "2024-12-06T12:18:04.000000Z"
+    }
+}

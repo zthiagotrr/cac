@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Rog\u00e9rio de Moura",
+    "cpf": "18008808802",
+    "email": "progeriomoura@yahoo.com.br",
+    "phone": "11940309604",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Az5eq9Z",
+        "total_price": "164.59",
+        "status": "pending",
+        "created_at": "2024-12-07T11:58:58.000000Z"
+    }
+}

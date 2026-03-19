@@ -1,0 +1,20 @@
+{
+    "name": "Edvaldo de Sousa Bispo Junior",
+    "cpf": "05065703558",
+    "email": "eng.edvaldojunior@yahoo.com",
+    "phone": "73981530041",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZpqQWyoG",
+        "total_price": "243.68",
+        "status": "approved",
+        "created_at": "2024-12-05T22:45:14.000000Z"
+    }
+}

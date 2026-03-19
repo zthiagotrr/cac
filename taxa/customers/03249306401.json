@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Edvaldo da Silva",
+    "cpf": "03249306401",
+    "email": "81999426379edvaldo@gmail.com",
+    "phone": "81996478251",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJvmX6wZ",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-25T21:56:37.000000Z"
+    }
+}

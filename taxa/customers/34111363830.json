@@ -1,0 +1,20 @@
+{
+    "name": "Thiago de oliveira",
+    "cpf": "34111363830",
+    "email": "thiagotvregional@gmail.com",
+    "phone": "15981121272",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqyAK0Xg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-21T21:50:05.000000Z"
+    }
+}

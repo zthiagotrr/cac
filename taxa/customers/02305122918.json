@@ -1,0 +1,20 @@
+{
+    "name": "Leonir Moreira da Costa",
+    "cpf": "02305122918",
+    "email": "jcjaguariaiva@gmail.com",
+    "phone": "43998302005",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9N11Dvg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:32:43.000000Z"
+    }
+}

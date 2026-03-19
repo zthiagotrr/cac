@@ -1,0 +1,20 @@
+{
+    "name": "Gustavo Henrique Teixeira barros",
+    "cpf": "05603238674",
+    "email": "gustavoprocar@hotmail.com",
+    "phone": "32988220432",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbBRKn4Z",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-11-30T03:21:04.000000Z"
+    }
+}

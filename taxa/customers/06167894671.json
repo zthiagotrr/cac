@@ -1,0 +1,20 @@
+{
+    "name": "Marcelo Junio soares",
+    "cpf": "06167894671",
+    "email": "marcsoares211@yahoo.com",
+    "phone": "31992128576",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-07 07:26:14"
+    }
+}

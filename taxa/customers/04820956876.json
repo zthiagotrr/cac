@@ -1,0 +1,20 @@
+{
+    "name": "Valdomiro dias pereira",
+    "cpf": "04820956876",
+    "email": "valdomirodiaspereira12@gmail.com",
+    "phone": "15996018897",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZbjRzqKZ",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-25T18:15:52.000000Z"
+    }
+}

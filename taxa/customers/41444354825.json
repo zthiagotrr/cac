@@ -1,0 +1,20 @@
+{
+    "name": "Welder Tulio Nunes Fernandes",
+    "cpf": "41444354825",
+    "email": "weldertulio.wtnf@gmail.com",
+    "phone": "16993284559",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Lv21xVG",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T03:46:21.000000Z"
+    }
+}

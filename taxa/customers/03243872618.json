@@ -1,0 +1,20 @@
+{
+    "name": "Sidinei Lopes machado",
+    "cpf": "03243872618",
+    "email": "isolamentermicoeconstrucao@gmail.com",
+    "phone": "31996516683",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNeyr5WG",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-27T11:16:47.000000Z"
+    }
+}

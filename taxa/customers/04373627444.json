@@ -1,0 +1,20 @@
+{
+    "name": "Antonio lucena da silva",
+    "cpf": "04373627444",
+    "email": "antoniolucenasilva99@gmail.com",
+    "phone": "82987032238",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3EvPdRlZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-23T12:48:25.000000Z"
+    }
+}

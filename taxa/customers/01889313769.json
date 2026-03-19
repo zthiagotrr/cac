@@ -1,0 +1,20 @@
+{
+    "name": "Rafael Gon\u00e7alves Dias",
+    "cpf": "01889313769",
+    "email": "rgdmotoreseletricos@gmail.com",
+    "phone": "21989544426",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr1OJz8Z",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-25T13:47:58.000000Z"
+    }
+}

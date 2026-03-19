@@ -1,0 +1,20 @@
+{
+    "name": "Gilmar Noberto dos Santos",
+    "cpf": "20453345468",
+    "email": "gilmarns2009@gmail.com",
+    "phone": "83988739893",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqDBRMjG",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-24T18:28:13.000000Z"
+    }
+}

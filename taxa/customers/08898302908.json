@@ -1,0 +1,20 @@
+{
+    "name": "Guilherme castro de souza",
+    "cpf": "08898302908",
+    "email": "guilhermecastrosouza28@gmail.com",
+    "phone": "43998096102",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gwKlRYjg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T01:29:21.000000Z"
+    }
+}

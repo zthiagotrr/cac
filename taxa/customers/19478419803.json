@@ -1,0 +1,20 @@
+{
+    "name": "Andre Ven\u00e2ncio da cruz",
+    "cpf": "19478419803",
+    "email": "andrevenancciocruz@gmail.com",
+    "phone": "11991357176",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.00",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-04 06:16:40"
+    }
+}

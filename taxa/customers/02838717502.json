@@ -1,0 +1,20 @@
+{
+    "name": "Marco antonio Ribeiro passos",
+    "cpf": "02838717502",
+    "email": "etecom_engenharia@hotmail.com",
+    "phone": "71999477124",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW684rbZ",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-01T10:09:38.000000Z"
+    }
+}

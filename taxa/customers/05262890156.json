@@ -1,0 +1,20 @@
+{
+    "name": "Jhonatas J\u00fanior Barbosa Da Silva",
+    "cpf": "05262890156",
+    "email": "jhonatasjunior53@gmail.com",
+    "phone": "64992993776",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjV1d1lg",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-02T16:33:51.000000Z"
+    }
+}

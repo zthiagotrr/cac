@@ -1,0 +1,20 @@
+{
+    "name": "Ivan Jeferson de Oliveira",
+    "cpf": "28593015859",
+    "email": "ivanjeferson@yahoo.com.br",
+    "phone": "1199464786",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9eROMQG",
+        "total_price": "117.20",
+        "status": "pending",
+        "created_at": "2024-11-07T01:06:01.000000Z"
+    }
+}

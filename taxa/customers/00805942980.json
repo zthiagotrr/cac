@@ -1,0 +1,20 @@
+{
+    "name": "Andr\u00e9 Luiz de Matos",
+    "cpf": "00805942980",
+    "email": "andredmatos125@gmail.com",
+    "phone": "49999297022",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-05 22:19:40"
+    }
+}

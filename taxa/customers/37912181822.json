@@ -1,0 +1,20 @@
+{
+    "name": "Maicon jonatan Braz",
+    "cpf": "37912181822",
+    "email": "maiconbraz733@gmail.com",
+    "phone": "11971230359",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8DmOyMZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-12T12:44:09.000000Z"
+    }
+}

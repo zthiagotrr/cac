@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Edson Mergener",
+    "cpf": "07784231903",
+    "email": "paulomergener9020@gmail.com",
+    "phone": "45920014069",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gl2nNaBZ",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-19T01:07:22.000000Z"
+    }
+}

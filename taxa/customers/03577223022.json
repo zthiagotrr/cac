@@ -1,0 +1,20 @@
+{
+    "name": "Anderson de Moraes Rodrigues",
+    "cpf": "03577223022",
+    "email": "jr704248@gmail.com",
+    "phone": "54984092769",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LeXo2QZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-21T23:05:03.000000Z"
+    }
+}

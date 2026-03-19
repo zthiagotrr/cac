@@ -1,0 +1,20 @@
+{
+    "name": "Giseli Nascimento da Silva",
+    "cpf": "00808297163",
+    "email": "giselenascimento36634@gmail.com",
+    "phone": "55679994020",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AzWA7bZ",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-05T16:56:07.000000Z"
+    }
+}

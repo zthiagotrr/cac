@@ -1,0 +1,20 @@
+{
+    "name": "Cristiano Tomasin",
+    "cpf": "06497779990",
+    "email": "cristianotomasin01@gmail.com",
+    "phone": "49920001702",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8Nw0m4g",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-24T04:41:55.000000Z"
+    }
+}

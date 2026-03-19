@@ -1,0 +1,20 @@
+{
+    "name": "Landsberg Pereira Magalh\u00e3es",
+    "cpf": "94020990506",
+    "email": "landsbergpereiramagalhaes@gmail.com",
+    "phone": "61994281692",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zar8nV4G",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T04:40:56.000000Z"
+    }
+}

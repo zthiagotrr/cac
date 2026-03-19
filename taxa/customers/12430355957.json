@@ -1,0 +1,20 @@
+{
+    "name": "Lucas Chagas Carneiro",
+    "cpf": "12430355957",
+    "email": "lucaschagas848@gmail.com",
+    "phone": "41996115831",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zaoe1EVg",
+        "total_price": "188.13",
+        "status": "pending",
+        "created_at": "2024-11-29T02:55:38.000000Z"
+    }
+}

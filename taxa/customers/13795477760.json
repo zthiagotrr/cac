@@ -1,0 +1,20 @@
+{
+    "name": "Isaac Ad\u00e3o costa",
+    "cpf": "13795477760",
+    "email": "adaoc877@gmail.com",
+    "phone": "21977266875",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-09 00:33:15"
+    }
+}

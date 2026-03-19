@@ -1,0 +1,20 @@
+{
+    "name": "Valdecir Medeiros Gouvea",
+    "cpf": "25608797272",
+    "email": "valdeciromgouvea@outlook.com.br",
+    "phone": "91985084074",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZDvPELLg",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-21T19:46:46.000000Z"
+    }
+}

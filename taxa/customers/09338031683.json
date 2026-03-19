@@ -1,0 +1,20 @@
+{
+    "name": "Emerson Aparecido Cardoso Ramos",
+    "cpf": "09338031683",
+    "email": "emersonramos3412@gmail.com",
+    "phone": "31996450280",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMvyEjXG",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-22T23:51:58.000000Z"
+    }
+}

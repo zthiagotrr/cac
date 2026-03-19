@@ -1,0 +1,20 @@
+{
+    "name": "Denilson Souza Cintra",
+    "cpf": "07870963500",
+    "email": "denilsoncintra67@gmail.com",
+    "phone": "75998484897",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9REEEZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:11:29.000000Z"
+    }
+}

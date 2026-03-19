@@ -1,0 +1,20 @@
+{
+    "name": "Alexandre Dami\u00e3o",
+    "cpf": "17436236822",
+    "email": "avlsegurancapatrimonial2024@gmail.com",
+    "phone": "11979695847",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8N26XQg",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-11-30T12:16:22.000000Z"
+    }
+}

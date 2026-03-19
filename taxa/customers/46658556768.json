@@ -1,0 +1,20 @@
+{
+    "name": "Helton Luiz Cavalheiro lopes",
+    "cpf": "46658556768",
+    "email": "cavalheirohelton@gmail.com",
+    "phone": "21972822511",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-10 17:55:49"
+    }
+}

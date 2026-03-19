@@ -1,0 +1,20 @@
+{
+    "name": "Vitor Hugo dos Santos",
+    "cpf": "86446001509",
+    "email": "vitorhugo157945@gmail.com",
+    "phone": "79991988700",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzO6by53",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-10T14:19:16.000000Z"
+    }
+}

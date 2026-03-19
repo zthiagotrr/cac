@@ -1,0 +1,20 @@
+{
+    "name": "Rafael Martins Silva",
+    "cpf": "09416077631",
+    "email": "rafaelboavista92@gmail.com",
+    "phone": "34984188674",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8NKYRdg",
+        "total_price": "124.69",
+        "status": "approved",
+        "created_at": "2024-12-01T17:44:40.000000Z"
+    }
+}

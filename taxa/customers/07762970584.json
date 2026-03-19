@@ -1,0 +1,20 @@
+{
+    "name": "Jairlan Rene ribeiro da Silva",
+    "cpf": "07762970584",
+    "email": "reneribeiro455@gmail.com",
+    "phone": "77999052636",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8Dxj4yZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-12T22:15:25.000000Z"
+    }
+}

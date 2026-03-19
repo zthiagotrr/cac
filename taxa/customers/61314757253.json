@@ -1,0 +1,20 @@
+{
+    "name": "Pedro Ferreira da Silva",
+    "cpf": "61314757253",
+    "email": "Pedroferreira1975silva@gmail.com",
+    "phone": "96984265446",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOvpKmA3",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-25T14:57:49.000000Z"
+    }
+}

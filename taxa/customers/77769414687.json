@@ -1,0 +1,20 @@
+{
+    "name": "Roger Mamprim Fernandez Alvarez",
+    "cpf": "77769414687",
+    "email": "roger@gmail.com",
+    "phone": "31983244095",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3EvAzQlZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T20:25:44.000000Z"
+    }
+}

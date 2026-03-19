@@ -1,0 +1,20 @@
+{
+    "name": "Paulo Junio de Lima",
+    "cpf": "06761955475",
+    "email": "paulojuniodelima@gmail.com",
+    "phone": "11948841475",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zaoxo2Rg",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-16T23:01:41.000000Z"
+    }
+}

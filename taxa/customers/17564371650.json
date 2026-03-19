@@ -1,0 +1,20 @@
+{
+    "name": "Brayan Oliveira Barbosa",
+    "cpf": "17564371650",
+    "email": "brenolopesvi@gmail.com",
+    "phone": "38992009672",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8waXK43",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T18:41:21.000000Z"
+    }
+}

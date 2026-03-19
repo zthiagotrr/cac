@@ -1,0 +1,20 @@
+{
+    "name": "LUDIMILA FERNANDES MAGALHAES",
+    "cpf": "25538632687",
+    "email": "ludimilamecanica3@hotmail.com",
+    "phone": "34991343277",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gPzw6pjZ",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-24T04:05:09.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Marco Reis Freitas simplicio",
+    "cpf": "10200400762",
+    "email": "marcoreisfreitassimplicio@gmail.com",
+    "phone": "24999185215",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVma9Qg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T10:01:44.000000Z"
+    }
+}

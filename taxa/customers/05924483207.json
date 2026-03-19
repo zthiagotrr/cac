@@ -1,0 +1,20 @@
+{
+    "name": "Douglas da Concei\u00e7\u00e3o vargas",
+    "cpf": "05924483207",
+    "email": "vargasdouglas335@gmail.com",
+    "phone": "93981197343",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GW6W6vWZ",
+        "total_price": "154.59",
+        "status": "pending",
+        "created_at": "2024-12-03T23:46:39.000000Z"
+    }
+}

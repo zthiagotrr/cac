@@ -1,0 +1,20 @@
+{
+    "name": "Francisco Lindomar Batalha lima",
+    "cpf": "56775946368",
+    "email": "llentregas@gmail.com",
+    "phone": "85997559943",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3LeP99vZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T10:22:41.000000Z"
+    }
+}

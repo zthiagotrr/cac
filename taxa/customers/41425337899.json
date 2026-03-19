@@ -1,0 +1,20 @@
+{
+    "name": "Solemir Lopes Batista",
+    "cpf": "41425337899",
+    "email": "sol.biomed16@hotmail.com",
+    "phone": "11965049944",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gd7X7M5G",
+        "total_price": "124.69",
+        "status": "pending",
+        "created_at": "2024-12-03T13:55:03.000000Z"
+    }
+}

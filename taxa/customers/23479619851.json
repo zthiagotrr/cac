@@ -1,0 +1,20 @@
+{
+    "name": "Adnan mohammad ali Abu malish",
+    "cpf": "23479619851",
+    "email": "malishnano@gmail.com",
+    "phone": "11951313963",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZaoeqQag",
+        "total_price": "138.23",
+        "status": "pending",
+        "created_at": "2024-11-28T23:23:44.000000Z"
+    }
+}

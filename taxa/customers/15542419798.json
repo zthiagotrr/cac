@@ -1,0 +1,20 @@
+{
+    "name": "DANIEL PACHECO BEZERRA",
+    "cpf": "15542419798",
+    "email": "danielpachecopb@gmail.com",
+    "phone": "21966729428",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjkPEMl3",
+        "total_price": "96.67",
+        "status": "approved",
+        "created_at": "2024-12-22T17:34:20.000000Z"
+    }
+}

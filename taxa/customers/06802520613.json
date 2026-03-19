@@ -1,0 +1,20 @@
+{
+    "name": "Fabr\u00edcio Mendes Fraga",
+    "cpf": "06802520613",
+    "email": "fabriciomendes.cabure07@gmail.com",
+    "phone": "31987559277",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Za7Bx60g",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-11T22:20:19.000000Z"
+    }
+}

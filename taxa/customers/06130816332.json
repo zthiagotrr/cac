@@ -1,0 +1,20 @@
+{
+    "name": "Heitor da Silva Castro",
+    "cpf": "06130816332",
+    "email": "heitorscastro92@gmail.com",
+    "phone": "85999433034",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZxypevrG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-26T17:19:25.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Fabricio souza dos Santos",
+    "cpf": "10008741760",
+    "email": "fabriciolessandra@gmail.com",
+    "phone": "21981270385",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gdJbJ5zZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T00:39:49.000000Z"
+    }
+}

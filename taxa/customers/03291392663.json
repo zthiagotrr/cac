@@ -1,0 +1,20 @@
+{
+    "name": "Rodrigo Grissi candian",
+    "cpf": "03291392663",
+    "email": "grimports15@hotmail.com",
+    "phone": "32991586723",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gNeKLQPG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-28T14:42:27.000000Z"
+    }
+}

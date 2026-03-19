@@ -1,0 +1,20 @@
+{
+    "name": "Claudio Ferreira",
+    "cpf": "28179398838",
+    "email": "claudiosheilasesitotal@gmail.com",
+    "phone": "11913310341",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gdJarVoZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T15:59:28.000000Z"
+    }
+}

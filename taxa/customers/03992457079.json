@@ -1,0 +1,20 @@
+{
+    "name": "Kelvin de bastos carneiro",
+    "cpf": "03992457079",
+    "email": "kelvinbastos385@gmail.com",
+    "phone": "55984046980",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3E1jRQ03",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-20T11:57:31.000000Z"
+    }
+}

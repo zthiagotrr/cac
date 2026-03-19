@@ -1,0 +1,20 @@
+{
+    "name": "Julio Garcia da Rosa cordeiro",
+    "cpf": "00664716130",
+    "email": "garciacordeiro82@gmail.com",
+    "phone": "67999452041",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9NMA6vg",
+        "total_price": "97.20",
+        "status": "approved",
+        "created_at": "2024-11-26T13:07:57.000000Z"
+    }
+}

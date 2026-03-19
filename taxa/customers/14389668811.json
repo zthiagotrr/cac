@@ -1,0 +1,20 @@
+{
+    "name": "Jean Carlos Munhoz",
+    "cpf": "14389668811",
+    "email": "jeanmunhoz@gmail.com",
+    "phone": "11940095168",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gqyzMRWg",
+        "total_price": "194.49",
+        "status": "approved",
+        "created_at": "2024-12-06T11:35:00.000000Z"
+    }
+}

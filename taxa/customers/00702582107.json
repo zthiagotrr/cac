@@ -1,0 +1,20 @@
+{
+    "name": "Jean Carlos da silva",
+    "cpf": "00702582107",
+    "email": "jcsilva1985@gmail.com",
+    "phone": "64992211453",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3kqNJBbG",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-24T03:38:48.000000Z"
+    }
+}

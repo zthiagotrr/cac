@@ -1,0 +1,20 @@
+{
+    "name": "Fernando Henrique de Oliveira",
+    "cpf": "11158192673",
+    "email": "henriquefernando448@gmail.com",
+    "phone": "31986787145",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.30",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-07 15:45:11"
+    }
+}

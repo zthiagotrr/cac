@@ -1,0 +1,20 @@
+{
+    "name": "Manoel Lino Barbosa",
+    "cpf": "16279069591",
+    "email": "barbosamlino@gmail.com",
+    "phone": "7197037304",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gm9NOaAg",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T03:03:51.000000Z"
+    }
+}

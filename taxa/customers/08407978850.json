@@ -1,0 +1,20 @@
+{
+    "name": "Silvio de almeida",
+    "cpf": "08407978850",
+    "email": "salmeidagas@gmail.com",
+    "phone": "11991591058",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zao7omVg",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-22T00:17:48.000000Z"
+    }
+}

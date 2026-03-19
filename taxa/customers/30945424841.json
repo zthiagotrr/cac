@@ -1,0 +1,20 @@
+{
+    "name": "Rog\u00e9rio keiti chinen",
+    "cpf": "30945424841",
+    "email": "kemily.raphaely@gmail.com",
+    "phone": "14998403503",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9NP12Dg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T22:33:59.000000Z"
+    }
+}

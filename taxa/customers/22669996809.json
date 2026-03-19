@@ -1,0 +1,20 @@
+{
+    "name": "Jos\u00e9 Roberto Rodrigues da Silva",
+    "cpf": "22669996809",
+    "email": "volbert599@gmail.com",
+    "phone": "11914791666",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZD0xWJYZ",
+        "total_price": "196.20",
+        "status": "pending",
+        "created_at": "2024-11-04T18:08:08.000000Z"
+    }
+}

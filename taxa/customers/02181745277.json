@@ -1,0 +1,20 @@
+{
+    "name": "Ermeson Bandeira palheta",
+    "cpf": "02181745277",
+    "email": "ermesonpalheta18@gmail.com",
+    "phone": "92999071570",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z8NRk2Vg",
+        "total_price": "108.33",
+        "status": "pending",
+        "created_at": "2024-11-28T23:16:57.000000Z"
+    }
+}

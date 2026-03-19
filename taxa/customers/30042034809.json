@@ -1,0 +1,20 @@
+{
+    "name": "Jefferson Yoshimitsu Braz yamaji",
+    "cpf": "30042034809",
+    "email": "shimito.yamaji79@gmail.com",
+    "phone": "11974376229",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Xo4BJOg",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T12:59:31.000000Z"
+    }
+}

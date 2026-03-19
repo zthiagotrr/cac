@@ -1,0 +1,20 @@
+{
+    "name": "LUIZ Adriano Borges",
+    "cpf": "32887579827",
+    "email": "luiz42brayan@gmail.com",
+    "phone": "11951311780",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GVJ0rwkG",
+        "total_price": "176.47",
+        "status": "approved",
+        "created_at": "2024-12-24T17:13:26.000000Z"
+    }
+}

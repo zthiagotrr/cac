@@ -1,0 +1,20 @@
+{
+    "name": "Antonio da silva alencar",
+    "cpf": "03859182404",
+    "email": "antoniomotopecas2011@gmail.com",
+    "phone": "83996378996",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32mkKnag",
+        "total_price": "147.10",
+        "status": "approved",
+        "created_at": "2024-11-08T22:06:24.000000Z"
+    }
+}

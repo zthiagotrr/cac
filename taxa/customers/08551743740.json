@@ -1,0 +1,20 @@
+{
+    "name": "Genesio Silva Sousa",
+    "cpf": "08551743740",
+    "email": "genesio.s2capoeira@gmail.com",
+    "phone": "31980211156",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZKx1Ay1G",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-08T07:52:25.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ant\u00f4nio Douglas Paes Vieira",
+    "cpf": "92236677200",
+    "email": "paesdouglas131824@icloud.com",
+    "phone": "97984028388",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32Nl7663",
+        "total_price": "117.20",
+        "status": "pending",
+        "created_at": "2024-11-20T00:41:38.000000Z"
+    }
+}

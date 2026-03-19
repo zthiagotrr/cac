@@ -1,0 +1,20 @@
+{
+    "name": "Jo\u00e3o Batista Gomes de Oliveira",
+    "cpf": "09297421172",
+    "email": "jobago2000@gmail.com",
+    "phone": "61984008378",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gzY8zpRG",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-06T12:01:04.000000Z"
+    }
+}

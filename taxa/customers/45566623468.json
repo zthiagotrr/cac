@@ -1,0 +1,20 @@
+{
+    "name": "Rene ant\u00e3o da silva",
+    "cpf": "45566623468",
+    "email": "renesilvaantao@gmaio.com",
+    "phone": "81987998319",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9lW45AZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T19:54:16.000000Z"
+    }
+}

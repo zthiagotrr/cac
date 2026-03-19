@@ -1,0 +1,20 @@
+{
+    "name": "Deyvison Leonardo Pereira Carvalho",
+    "cpf": "07982168671",
+    "email": "deyvisonsaraiva@gmail.com",
+    "phone": "35988458030",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJME1M23",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-09T02:37:30.000000Z"
+    }
+}

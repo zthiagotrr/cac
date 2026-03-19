@@ -1,0 +1,20 @@
+{
+    "name": "Luciano louvem Gon\u00e7alves",
+    "cpf": "14318139743",
+    "email": "wolverluciano@gmail.com",
+    "phone": "22981153710",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJe7LQe3",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T11:21:19.000000Z"
+    }
+}

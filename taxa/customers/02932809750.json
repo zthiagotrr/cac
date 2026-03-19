@@ -1,0 +1,20 @@
+{
+    "name": "Marcio Baptista da Costa",
+    "cpf": "02932809750",
+    "email": "marciocosta2904@gmail.com",
+    "phone": "2199078697",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gQem2Vog",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-06T13:11:27.000000Z"
+    }
+}

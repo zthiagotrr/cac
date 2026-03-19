@@ -1,0 +1,20 @@
+{
+    "name": "Felix Ferreira de Silva neto",
+    "cpf": "11703589424",
+    "email": "felixnetocompare@hotmail.com",
+    "phone": "87981559516",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NJxnJ3",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-28T15:34:55.000000Z"
+    }
+}

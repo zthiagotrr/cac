@@ -1,0 +1,20 @@
+{
+    "name": "Adriano Fernandes Carniel",
+    "cpf": "44501744880",
+    "email": "adrianocarniel30@gmail.com",
+    "phone": "15998373996",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVWL7ng",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-22T04:03:47.000000Z"
+    }
+}

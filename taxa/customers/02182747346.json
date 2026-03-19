@@ -1,0 +1,20 @@
+{
+    "name": "Ronaldo Diniz",
+    "cpf": "02182747346",
+    "email": "ronaldokevin1982@gmail.com",
+    "phone": "98988965038",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZJMl0Xj3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-13T15:59:55.000000Z"
+    }
+}

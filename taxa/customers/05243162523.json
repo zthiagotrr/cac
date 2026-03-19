@@ -1,0 +1,20 @@
+{
+    "name": "Halisson Hevelon de Jesus Santos",
+    "cpf": "05243162523",
+    "email": "hevelon.halisson@gmail.com",
+    "phone": "71984559140",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gQAb8bEg",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-08T02:17:27.000000Z"
+    }
+}

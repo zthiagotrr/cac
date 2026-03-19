@@ -1,0 +1,20 @@
+{
+    "name": "Alan maxwell Ferreira aquiar",
+    "cpf": "09242992402",
+    "email": "alancussecosemfim@gmail.com",
+    "phone": "49998248033",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWVpwobZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T15:18:42.000000Z"
+    }
+}

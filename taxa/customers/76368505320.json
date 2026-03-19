@@ -1,0 +1,20 @@
+{
+    "name": "Joaquim S\u00e9rgio Alencar Ara\u00fajo",
+    "cpf": "76368505320",
+    "email": "Sergiouniaoturismo@gmail.com",
+    "phone": "11959546661",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "geV8PeR3",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T18:43:50.000000Z"
+    }
+}

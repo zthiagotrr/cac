@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Henrique Merce da rosa",
+    "cpf": "03906016080",
+    "email": "guiguemerce26@gmail.com",
+    "phone": "55992088533",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3k8lrybZ",
+        "total_price": "138.23",
+        "status": "pending",
+        "created_at": "2024-11-29T16:25:58.000000Z"
+    }
+}

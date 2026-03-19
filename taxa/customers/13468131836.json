@@ -1,0 +1,20 @@
+{
+    "name": "Clisney Moreira Lucena",
+    "cpf": "13468131836",
+    "email": "Lucenatiens@gmail.com",
+    "phone": "11994261409",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gdJaK57Z",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-25T06:23:32.000000Z"
+    }
+}

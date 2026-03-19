@@ -1,0 +1,20 @@
+{
+    "name": "Segisnando Ferreira Da Silva",
+    "cpf": "94156930378",
+    "email": "segisnandomalaquias13@gmail.com",
+    "phone": "86994406563",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zy0Xb753",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-22T08:51:38.000000Z"
+    }
+}

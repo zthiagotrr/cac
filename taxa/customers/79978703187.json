@@ -1,0 +1,20 @@
+{
+    "name": "Roberval Alves ferreira",
+    "cpf": "79978703187",
+    "email": "roberval.alvescvmt@gmail.com",
+    "phone": "66997163332",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GnaapjlZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-22T23:25:54.000000Z"
+    }
+}

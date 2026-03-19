@@ -1,0 +1,20 @@
+{
+    "name": "Marcos antonio carvalho mesquita",
+    "cpf": "04704858766",
+    "email": "marcosmesquita0555@outlook.com",
+    "phone": "21988510877",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "117.20",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-09 22:42:52"
+    }
+}

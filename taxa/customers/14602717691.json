@@ -1,0 +1,20 @@
+{
+    "name": "Jose guarato",
+    "cpf": "14602717691",
+    "email": "joseguarato@yahoo.com",
+    "phone": "34997991400",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35pAWw1g",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-25T21:13:03.000000Z"
+    }
+}

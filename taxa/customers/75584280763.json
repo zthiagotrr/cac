@@ -1,0 +1,20 @@
+{
+    "name": "MARCUS MACEDO DA SILVA",
+    "cpf": "75584280763",
+    "email": "marcusmsilvatrinta@hotmail.com",
+    "phone": "21996825990",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZarbEMRG",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-22T08:50:27.000000Z"
+    }
+}

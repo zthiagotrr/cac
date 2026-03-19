@@ -1,0 +1,20 @@
+{
+    "name": "Diego Pereira da rocha",
+    "cpf": "22150648890",
+    "email": "dgbatousay@gmail.com",
+    "phone": "11963782996",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "36N59Mw3",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-24T18:46:41.000000Z"
+    }
+}

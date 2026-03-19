@@ -1,0 +1,20 @@
+{
+    "name": "Deiwisson galan de Lima",
+    "cpf": "37534756880",
+    "email": "de.galandelima@gmail.com",
+    "phone": "11997794071",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "67.00",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 17:40:23"
+    }
+}

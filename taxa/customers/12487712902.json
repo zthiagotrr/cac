@@ -1,0 +1,20 @@
+{
+    "name": "Allan dos santos Barbosa",
+    "cpf": "12487712902",
+    "email": "allanmx048@gmail.com",
+    "phone": "47996637239",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Zxy6PqVG",
+        "total_price": "144.59",
+        "status": "pending",
+        "created_at": "2024-12-08T19:35:11.000000Z"
+    }
+}

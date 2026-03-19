@@ -1,0 +1,20 @@
+{
+    "name": "Walker Alves Pedrosa",
+    "cpf": "08068911650",
+    "email": "walkerapedrosa@gmail.com",
+    "phone": "34988647041",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gjVzmpag",
+        "total_price": "194.49",
+        "status": "pending",
+        "created_at": "2024-12-06T13:43:25.000000Z"
+    }
+}

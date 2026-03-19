@@ -1,0 +1,20 @@
+{
+    "name": "Sergio dos Santos Silva",
+    "cpf": "00102144451",
+    "email": "sergiobonitao37.ss@gmail.com",
+    "phone": "82993330893",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": ".",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-02 17:52:48"
+    }
+}

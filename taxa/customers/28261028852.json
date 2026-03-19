@@ -1,0 +1,20 @@
+{
+    "name": "Claudemir Rodrigues da Silva",
+    "cpf": "28261028852",
+    "email": "claudemirrodriguesdasilvaro90@gmail.com",
+    "phone": "11993130201",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZoYpR2Ng",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-22T20:48:35.000000Z"
+    }
+}

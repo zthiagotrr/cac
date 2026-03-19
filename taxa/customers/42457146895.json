@@ -1,0 +1,20 @@
+{
+    "name": "Romario Ribeiro da Silva",
+    "cpf": "42457146895",
+    "email": "romario51ace@gmail.com",
+    "phone": "16991906823",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3AzMzzbZ",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-26T00:22:34.000000Z"
+    }
+}

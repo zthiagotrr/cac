@@ -1,0 +1,20 @@
+{
+    "name": "Edimar martins da luz",
+    "cpf": "08145553733",
+    "email": "edimar9357@gmail.com",
+    "phone": "88992940828",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GWVpJVXZ",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-25T19:53:27.000000Z"
+    }
+}

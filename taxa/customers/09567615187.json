@@ -1,0 +1,20 @@
+{
+    "name": "ANTONIO POLICARPO DA COSTA",
+    "cpf": "09567615187",
+    "email": "antoniopolicarpocosta@hotmail.com",
+    "phone": "6299788856",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Z7eWQ2Xg",
+        "total_price": "176.47",
+        "status": "pending",
+        "created_at": "2024-12-25T04:24:40.000000Z"
+    }
+}

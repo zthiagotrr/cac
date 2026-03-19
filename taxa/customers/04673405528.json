@@ -1,0 +1,20 @@
+{
+    "name": "Uelton Santos",
+    "cpf": "04673405528",
+    "email": "ueltonhora1020@gmail.com",
+    "phone": "11952184382",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "Gr9ROKMZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T05:05:53.000000Z"
+    }
+}

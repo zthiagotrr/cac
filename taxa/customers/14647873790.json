@@ -1,0 +1,20 @@
+{
+    "name": "Bruno couto Guimar\u00e3es",
+    "cpf": "14647873790",
+    "email": "bcg415@hotmail.com",
+    "phone": "22998933767",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZaoPA68g",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-07T12:17:26.000000Z"
+    }
+}

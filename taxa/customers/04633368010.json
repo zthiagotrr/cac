@@ -1,0 +1,20 @@
+{
+    "name": "Rafael Albernaz de Souza",
+    "cpf": "04633368010",
+    "email": "rafaeladesouza939@gmail.com",
+    "phone": "51986070455",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZKexO0Dg",
+        "total_price": "154.20",
+        "status": "approved",
+        "created_at": "2024-11-22T14:25:54.000000Z"
+    }
+}

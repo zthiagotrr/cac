@@ -1,0 +1,20 @@
+{
+    "name": "Reginaldo Romualdo de Jesus Alves",
+    "cpf": "02027486186",
+    "email": "reginaldoromualdodejesusalves@gmail.com",
+    "phone": "64992162031",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZOzvxOJ3",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-23T16:19:18.000000Z"
+    }
+}

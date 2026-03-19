@@ -1,0 +1,20 @@
+{
+    "name": "Genilso Rosa Rodrigues",
+    "cpf": "07900322795",
+    "email": "genilso.rr@gmail.com",
+    "phone": "21980144691",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gmWeaa4Z",
+        "total_price": "67.30",
+        "status": "approved",
+        "created_at": "2024-11-27T10:46:00.000000Z"
+    }
+}

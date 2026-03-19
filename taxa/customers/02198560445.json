@@ -1,0 +1,20 @@
+{
+    "name": "Claudio Rodrigues de Sousa",
+    "cpf": "02198560445",
+    "email": "oleiturista23@hotmail.com",
+    "phone": "83988028182",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": ".",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-03 15:27:07"
+    }
+}

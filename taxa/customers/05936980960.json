@@ -1,0 +1,20 @@
+{
+    "name": "Roberto Carlos Nascimento",
+    "cpf": "05936980960",
+    "email": "rn4963044@gmail.com",
+    "phone": "47999107079",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": null,
+        "total_price": "117.20",
+        "status": "abandoned_cart",
+        "created_at": "2024-11-05 21:34:03"
+    }
+}

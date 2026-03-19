@@ -1,0 +1,20 @@
+{
+    "name": "Rodrigo Gon\u00e7alves de Oliveira Paiva",
+    "cpf": "80300855168",
+    "email": "rodrigopaiva1976@hotmail.com",
+    "phone": "61996858286",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "34NX2wdG",
+        "total_price": "67.30",
+        "status": "pending",
+        "created_at": "2024-11-25T21:34:46.000000Z"
+    }
+}

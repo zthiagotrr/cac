@@ -1,0 +1,20 @@
+{
+    "name": "Mardonio Felipe de Souza Barros",
+    "cpf": "07725571442",
+    "email": "mardoniofelipe23@gmail.com",
+    "phone": "82993161319",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "3Re2Oarg",
+        "total_price": "194.49",
+        "status": "pending",
+        "created_at": "2024-12-08T08:51:58.000000Z"
+    }
+}

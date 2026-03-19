@@ -1,0 +1,20 @@
+{
+    "name": "Denis Luis dos Santos",
+    "cpf": "13253860493",
+    "email": "denisluisdossantos3@gmail.com",
+    "phone": "17992394295",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "32NP2my3",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T20:05:52.000000Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Fagner de Moraes Silva",
+    "cpf": "14693163406",
+    "email": "fagnerferreira2004@gmail.com",
+    "phone": "87981007771",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35vPJaBZ",
+        "total_price": "114.69",
+        "status": "pending",
+        "created_at": "2024-12-08T19:17:23.000000Z"
+    }
+}

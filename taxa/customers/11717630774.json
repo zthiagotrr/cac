@@ -1,0 +1,20 @@
+{
+    "name": "UELESSON MENDES DA SILVA",
+    "cpf": "11717630774",
+    "email": "umarreta@hotmail.com",
+    "phone": "21987188003",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "gl2VVo5Z",
+        "total_price": "147.10",
+        "status": "pending",
+        "created_at": "2024-11-20T01:13:35.000000Z"
+    }
+}

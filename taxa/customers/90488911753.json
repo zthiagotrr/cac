@@ -1,0 +1,20 @@
+{
+    "name": "Luciano Maximiano de Sousa",
+    "cpf": "90488911753",
+    "email": "lucianofisiol@gmail.com",
+    "phone": "21971729022",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "35pAnk1g",
+        "total_price": "146.57",
+        "status": "pending",
+        "created_at": "2024-12-25T21:46:39.000000Z"
+    }
+}

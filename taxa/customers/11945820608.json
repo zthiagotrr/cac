@@ -1,0 +1,20 @@
+{
+    "name": "jeferson raphaeldos santos",
+    "cpf": "11945820608",
+    "email": "jefersoncaete@hotmail.com",
+    "phone": "31995458591",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "ZMMLJ9WZ",
+        "total_price": "117.20",
+        "status": "pending",
+        "created_at": "2024-11-07T11:15:05.000000Z"
+    }
+}

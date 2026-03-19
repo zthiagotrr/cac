@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Antonio Cordeiro Galv\u00e3o",
+    "cpf": "17987024449",
+    "email": "galvaoluizac@gmail.com",
+    "phone": "81982681226",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "G9lJyXLZ",
+        "total_price": "96.67",
+        "status": "pending",
+        "created_at": "2024-12-24T02:46:12.000000Z"
+    }
+}

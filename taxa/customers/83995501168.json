@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Costa Reis Filho",
+    "cpf": "83995501168",
+    "email": "luizcostarf123@gmail.com",
+    "phone": "63992971302",
+    "address": {
+        "street": "",
+        "number": "",
+        "district": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "purchase": {
+        "transaction_id": "GY2Kv9Og",
+        "total_price": "126.57",
+        "status": "pending",
+        "created_at": "2024-12-23T06:12:14.000000Z"
+    }
+}
